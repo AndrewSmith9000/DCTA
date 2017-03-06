@@ -1,0 +1,1364 @@
+                APPLICATION LOGIC VALIDATOR-EQUATION FILE
+
+Date:  March 03, 2017
+ 
+Validator Version: 
+   Validator.exe version 5.8 Build: 601
+   EC5val32.dll version 3.17 Build: 502
+   Vhlcval32.dll version 3.13 Build: 502
+   NonVitalVal32.dll version 1.11 Build: 502
+   VPM3Val32.dll version 1.13 Build: 526
+ 
+Location Type: ELECTROLOGIXS
+ 
+EPROM FILE(S):
+   C:\~DCTA\742.48_EL - CP Mill\742.48_elv.b1
+   EPT CRC = 437B, EPT Checksum = 5A37
+ 
+EPROM Header:
+   ACE Editor: <5.8.16.526> IXS Compiler <1.12.422> Railroad: <DCTA> Subd
+   ivision: <> Address: <CP MILL REMOTE M.P. 742.58> Chassis ID: <236> Lo
+   cation Number: <236> Flash Rate (flash/per sec): <60> Date <03/03/2017
+   > 
+ 
+Number of Equations: 128
+ 
+Equation: 25CTP,  from EPROM
+ 
+    25CTPRS2I  LINK-S2OK  25CTP 
+---+---] [----+---] [----+---(R)
+                                
+Equation: [25CTP]  Recorded: [ TRUE]
+ 
+End of equation 25CTP from EPROM.
+ 
+Equation: 24TP,  from EPROM
+ 
+    24TRS2I  LINK-S2OK  24TP  
+---+--] [---+---] [----+---(R)
+                              
+Equation: [24TP]  Recorded: [ TRUE]
+ 
+End of equation 24TP from EPROM.
+ 
+Equation: 24NT0,  from EPROM
+ 
+    24NT01I  LINK1OK  24NT0 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [24NT0]  Recorded: [ TRUE]
+ 
+End of equation 24NT0 from EPROM.
+ 
+Equation: WTRNMD15,  from EPROM
+ 
+    WTRNMD151I  LINK1OK  WTRNMD15 
+---+----] [----+--] [---+------(R)
+                                  
+Equation: [WTRNMD15]  Recorded: [ TRUE]
+ 
+End of equation WTRNMD15 from EPROM.
+ 
+Equation: 25CNSR,  from EPROM
+ 
+    4NASR  25CTP   25CNSR 
+---+-] [--+--] [--+----(R)
+          |       |       
+          |25CNSR |       
+          +--] [--+       
+                          
+Equation: [25CNSR]  Recorded: [ TRUE]
+ 
+End of equation 25CNSR from EPROM.
+ 
+Equation: 24SSR,  from EPROM
+ 
+    24SSR1I  LINK1OK  24TP   24SSR 
+---+--] [---+--] [---+-] [--+---(R)
+                     |      |      
+                     |24SSR |      
+                     +-] [--|      
+                                   
+Equation: [24SSR]  Recorded: [ TRUE]
+ 
+End of equation 24SSR from EPROM.
+ 
+Equation: 24NSR,  from EPROM
+ 
+    6NASR  24TP   24NSR 
+---+-] [--+-] [--+---(R)
+          |      |      
+          |24NSR |      
+          +-] [--|      
+                        
+Equation: [24NSR]  Recorded: [ TRUE]
+ 
+End of equation 24NSR from EPROM.
+ 
+Equation: 24NREL,  from EPROM
+ 
+    24NREL1I  LINK1OK  24NREL 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [24NREL]  Recorded: [ TRUE]
+ 
+End of equation 24NREL from EPROM.
+ 
+Equation: 14TP,  from EPROM
+ 
+    14TP1I  LINK1OK  14TP  
+---+--] [--+--] [---+---(R)
+                           
+Equation: [14TP]  Recorded: [ TRUE]
+ 
+End of equation 14TP from EPROM.
+ 
+Equation: 24T15OF,  from EPROM
+ 
+    24T15OFRQ  24T15ONRQ  24T15OF 
+---+---] [----+---]/[----+-----(R)
+   |                     |        
+   | 24T15ON    24T15OF  |        
+   +---]/[----+---] [----|        
+                                  
+Equation: [24T15OF]  Recorded: [ TRUE]
+ 
+End of equation 24T15OF from EPROM.
+ 
+Equation: 24T0OF,  from EPROM
+ 
+    24T0OFRQ  24T0ONRQ  24T0OF 
+---+---] [---+---]/[---+----(R)
+   |                   |       
+   | 24T0ON    24T0OF  |       
+   +---]/[---+---] [---+       
+                               
+Equation: [24T0OF]  Recorded: [ TRUE]
+ 
+End of equation 24T0OF from EPROM.
+ 
+Equation: 24ST0,  from EPROM
+ 
+    24T0ON  24T0OF  24ST0 
+---+--]/[--+--] [--+---(R)
+                          
+Equation: [24ST0]  Recorded: [ TRUE]
+ 
+End of equation 24ST0 from EPROM.
+ 
+Equation: 24NT15,  from EPROM
+ 
+    24NT151I  LINK1OK  24NT15 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [24NT15]  Recorded: [ TRUE]
+ 
+End of equation 24NT15 from EPROM.
+ 
+Equation: NNWP,  from EPROM
+ 
+    NNWP_2I  LINK2OK  NNWP  
+---+--] [---+--] [---+---(R)
+                            
+Equation: [NNWP]  Recorded: [ TRUE]
+ 
+End of equation NNWP from EPROM.
+ 
+Equation: 24ST15,  from EPROM
+ 
+    24T15ON  24T15OF  24ST0  24ST15 
+---+--]/[---+--] [---+-] [--+----(R)
+                                    
+Equation: [24ST15]  Recorded: [ TRUE]
+ 
+End of equation 24ST15 from EPROM.
+ 
+Equation: 24WZOF,  from EPROM
+ 
+    24WZONRQ  24WZOFRQ  24WZOF 
+---+---]/[---+---] [---+----(R)
+   |                   |       
+   | 24WZOF    24WZON  |       
+   +---] [---+---]/[---+       
+                               
+Equation: [24WZOF]  Recorded: [ TRUE]
+ 
+End of equation 24WZOF from EPROM.
+ 
+Equation: 24T15,  from EPROM
+ 
+    24ST15  24NT15  24T15 
+---+--] [--+--] [--+---(R)
+                          
+Equation: [24T15]  Recorded: [ TRUE]
+ 
+End of equation 24T15 from EPROM.
+ 
+Equation: 6SASR,  from EPROM
+ 
+    6SASRS2I  LINK-S2OK  6SASR 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [6SASR]  Recorded: [ TRUE]
+ 
+End of equation 6SASR from EPROM.
+ 
+Equation: 24T0,  from EPROM
+ 
+    24ST0  24NT0  24T0  
+---+-] [--+-] [--+---(R)
+                        
+Equation: [24T0]  Recorded: [ TRUE]
+ 
+End of equation 24T0 from EPROM.
+ 
+Equation: WTRNMD0,  from EPROM
+ 
+    WTRNMD01I  LINK1OK  WTRNMD0 
+---+---] [----+--] [---+-----(R)
+                                
+Equation: [WTRNMD0]  Recorded: [ TRUE]
+ 
+End of equation WTRNMD0 from EPROM.
+ 
+Equation: WTRMD15,  from EPROM
+ 
+    WTRSMD15  WTRNMD15  WTRMD15 
+---+---] [---+---] [---+-----(R)
+                                
+Equation: [WTRMD15]  Recorded: [ TRUE]
+ 
+End of equation WTRMD15 from EPROM.
+ 
+Equation: 24-51S-TE,  from EPROM
+ 
+    24TP   24-51S-TE 
+---+-]/[--+-------(T)
+                     
+Timer Data:    Timer Complete: [   24-51S-TE]  Recorded: [ TRUE]
+               Timer Enable:   [  24-51S-TEN]  Recorded: [ TRUE]
+               Timer Default: 0 minutes, 51 seconds.
+               Timer Minimum: 0 minutes, 51 seconds.
+ 
+ 
+End of equation 24-51S-TE from EPROM.
+ 
+Equation: 24-50S-TE,  from EPROM
+ 
+    24TP   24-50S-TE 
+---+-]/[--+-------(T)
+                     
+Timer Data:    Timer Complete: [   24-50S-TE]  Recorded: [ TRUE]
+               Timer Enable:   [  24-50S-TEN]  Recorded: [ TRUE]
+               Timer Default: 0 minutes, 50 seconds.
+               Timer Minimum: 0 minutes, 50 seconds.
+ 
+ 
+End of equation 24-50S-TE from EPROM.
+ 
+Equation: 24L,  from EPROM
+ 
+    24NSR  24SSR   24L  
+---+-] [--+-] [--+---(R)
+                        
+Equation: [24L]  Recorded: [ TRUE]
+ 
+End of equation 24L from EPROM.
+ 
+Equation: 24T25OF,  from EPROM
+ 
+    24T25OFRQ  24T25ONRQ  24T25OF 
+---+---] [----+---]/[----+-----(R)
+   |                     |        
+   | 24T25ON    24T25OF  |        
+   +---]/[----+---] [----|        
+                                  
+Equation: [24T25OF]  Recorded: [ TRUE]
+ 
+End of equation 24T25OF from EPROM.
+ 
+Equation: 24T25ON,  from EPROM
+ 
+    24T25ONRQ  24T25OFRQ   24L   24T25ON 
+---+---] [----+---]/[----+-] [--+-----(R)
+   |                     |               
+   | 24T25OF    24T25ON  |               
+   +---]/[----+---] [----|               
+                                         
+Equation: [24T25ON]  Recorded: [ TRUE]
+ 
+End of equation 24T25ON from EPROM.
+ 
+Equation: 24T45OF,  from EPROM
+ 
+    24T45OFRQ  24T45ONRQ  24T45OF 
+---+---] [----+---]/[----+-----(R)
+   |                     |        
+   | 24T45ON    24T45OF  |        
+   +---]/[----+---] [----|        
+                                  
+Equation: [24T45OF]  Recorded: [ TRUE]
+ 
+End of equation 24T45OF from EPROM.
+ 
+Equation: 24T45ON,  from EPROM
+ 
+    24T45ONRQ  24T45OFRQ   24L   24T45ON 
+---+---] [----+---]/[----+-] [--+-----(R)
+   |                     |               
+   | 24T45OF    24T45ON  |               
+   +---]/[----+---] [----|               
+                                         
+Equation: [24T45ON]  Recorded: [ TRUE]
+ 
+End of equation 24T45ON from EPROM.
+ 
+Equation: 24NT25,  from EPROM
+ 
+    24NT251I  LINK1OK  24NT25 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [24NT25]  Recorded: [ TRUE]
+ 
+End of equation 24NT25 from EPROM.
+ 
+Equation: 24NT45,  from EPROM
+ 
+    24NT451I  LINK1OK  24NT45 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [24NT45]  Recorded: [ TRUE]
+ 
+End of equation 24NT45 from EPROM.
+ 
+Equation: 24ST25,  from EPROM
+ 
+    24T25ON  24T25OF  24ST0  24ST15  24ST25 
+---+--]/[---+--] [---+-] [--+--] [--+----(R)
+                                            
+Equation: [24ST25]  Recorded: [ TRUE]
+ 
+End of equation 24ST25 from EPROM.
+ 
+Equation: 24T0ON,  from EPROM
+ 
+    24T0ONRQ  24T0OFRQ   24L   24T0ON 
+---+---] [---+---]/[---+-] [--+----(R)
+   |                   |              
+   | 24T0OF    24T0ON  |              
+   +---]/[---+---] [---+              
+                                      
+Equation: [24T0ON]  Recorded: [ TRUE]
+ 
+End of equation 24T0ON from EPROM.
+ 
+Equation: 24PRC,  from EPROM
+ 
+    24PRC1I  LINK1OK  24PRC 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [24PRC]  Recorded: [ TRUE]
+ 
+End of equation 24PRC from EPROM.
+ 
+Equation: 24T25,  from EPROM
+ 
+    24ST25  24NT25  24T25 
+---+--] [--+--] [--+---(R)
+                          
+Equation: [24T25]  Recorded: [ TRUE]
+ 
+End of equation 24T25 from EPROM.
+ 
+Equation: 24NWZ,  from EPROM
+ 
+    24NWZ1I  LINK1OK  24NWZ 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [24NWZ]  Recorded: [ TRUE]
+ 
+End of equation 24NWZ from EPROM.
+ 
+Equation: ETRMD0OF,  from EPROM
+ 
+    ETRMD0OFRQ  ETRMD0ONRQ  ETRMD0OF 
+---+----] [----+----]/[----+------(R)
+   |                       |         
+   | ETRMD0ON    ETRMD0OF  |         
+   +----]/[----+----] [----+         
+                                     
+Equation: [ETRMD0OF]  Recorded: [ TRUE]
+ 
+End of equation ETRMD0OF from EPROM.
+ 
+Equation: ETRMD0ON,  from EPROM
+ 
+    ETRMD0ONRQ  ETRMD0OFRQ   24L   ETRMD0ON 
+---+----] [----+----]/[----+-] [--+------(R)
+   |                       |                
+   | ETRMD0OF    ETRMD0ON  |                
+   +----]/[----+----] [----+                
+                                            
+Equation: [ETRMD0ON]  Recorded: [ TRUE]
+ 
+End of equation ETRMD0ON from EPROM.
+ 
+Equation: ETRMD15OF,  from EPROM
+ 
+    ETRMD15OFRQ  ETRMD15ONRQ  ETRMD15OF 
+---+----] [-----+----]/[-----+-------(R)
+   |                         |          
+   | ETRMD15ON    ETRMD15OF  |          
+   +----]/[-----+----] [-----|          
+                                        
+Equation: [ETRMD15OF]  Recorded: [ TRUE]
+ 
+End of equation ETRMD15OF from EPROM.
+ 
+Equation: ETRMD15ON,  from EPROM
+ 
+    ETRMD15ONRQ  ETRMD15OFRQ   24L   ETRMD15ON 
+---+----] [-----+----]/[-----+-] [--+-------(R)
+   |                         |                 
+   | ETRMD15OF    ETRMD15ON  |                 
+   +----]/[-----+----] [-----|                 
+                                               
+Equation: [ETRMD15ON]  Recorded: [ TRUE]
+ 
+End of equation ETRMD15ON from EPROM.
+ 
+Equation: 25CSSR,  from EPROM
+ 
+    6SASR  25CTP   25CSSR 
+---+-] [--+--] [--+----(R)
+          |       |       
+          |25CSSR |       
+          +--] [--+       
+                          
+Equation: [25CSSR]  Recorded: [ TRUE]
+ 
+End of equation 25CSSR from EPROM.
+ 
+Equation: ETRSMD0,  from EPROM
+ 
+    ETRMD0ON  ETRMD0OF  ETRSMD0 
+---+---]/[---+---] [---+-----(R)
+                                
+Equation: [ETRSMD0]  Recorded: [ TRUE]
+ 
+End of equation ETRSMD0 from EPROM.
+ 
+Equation: ETRNMD0,  from EPROM
+ 
+    ETRNMD01I  LINK1OK  ETRNMD0 
+---+---] [----+--] [---+-----(R)
+                                
+Equation: [ETRNMD0]  Recorded: [ TRUE]
+ 
+End of equation ETRNMD0 from EPROM.
+ 
+Equation: ETRNMD15,  from EPROM
+ 
+    ETRNMD151I  LINK1OK  ETRNMD15 
+---+----] [----+--] [---+------(R)
+                                  
+Equation: [ETRNMD15]  Recorded: [ TRUE]
+ 
+End of equation ETRNMD15 from EPROM.
+ 
+Equation: ETRSMD15,  from EPROM
+ 
+    ETRMD15ON  ETRMD15OF  ETRSMD0  ETRSMD15 
+---+---]/[----+---] [----+--] [---+------(R)
+                                            
+Equation: [ETRSMD15]  Recorded: [ TRUE]
+ 
+End of equation ETRSMD15 from EPROM.
+ 
+Equation: ETRMD15,  from EPROM
+ 
+    ETRSMD15  ETRNMD15  ETRMD15 
+---+---] [---+---] [---+-----(R)
+                                
+Equation: [ETRMD15]  Recorded: [ TRUE]
+ 
+End of equation ETRMD15 from EPROM.
+ 
+Equation: 25CCS,  from EPROM
+ 
+    LINK-S2OK  25CTP  25CCS 
+---+---] [----+-]/[--+---(R)
+                            
+Equation: [25CCS]  Recorded: [ TRUE]
+ 
+End of equation 25CCS from EPROM.
+ 
+Equation: ETRMD0,  from EPROM
+ 
+    ETRSMD0  ETRNMD0  ETRMD0 
+---+--] [---+--] [---+----(R)
+                             
+Equation: [ETRMD0]  Recorded: [ TRUE]
+ 
+End of equation ETRMD0 from EPROM.
+ 
+Equation: 24WZON,  from EPROM
+ 
+    24WZONRQ  24WZOFRQ   24L   24WZON 
+---+---] [---+---]/[---+-] [--+----(R)
+   |                   |              
+   | 24WZOF    24WZON  |              
+   +---]/[---+---] [---+              
+                                      
+Equation: [24WZON]  Recorded: [ TRUE]
+ 
+End of equation 24WZON from EPROM.
+ 
+Equation: 24WZ,  from EPROM
+ 
+    24WZON  24WZOF  24WZ  
+---+--]/[--+--] [--+---(R)
+                          
+Equation: [24WZ]  Recorded: [ TRUE]
+ 
+End of equation 24WZ from EPROM.
+ 
+Equation: 24REL,  from EPROM
+ 
+    24RELONRQ  24RELOFRQ  24WZ   25CTP  LINK-S2OK  MR-LNK1OK  24TP   14NOTP  24SSR    25CNSR     24REL 
+---+---] [----+---]/[----+-]/[--+-]/[--+---] [----+---] [----+-] [--+--] [--+-] [--+----]/[-----+---(R)
+   |          |                                                                    |            |      
+   |  24REL   |                                                                    |25CTURNBACK |      
+   +---] [----|                                                                    +----] [-----|      
+                                                                                                       
+Equation: [24REL]  Recorded: [ TRUE]
+ 
+End of equation 24REL from EPROM.
+ 
+Equation: 14T15,  from EPROM
+ 
+    14T151I  LINK1OK  14T15 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [14T15]  Recorded: [ TRUE]
+ 
+End of equation 14T15 from EPROM.
+ 
+Equation: 24-48S-TE,  from EPROM
+ 
+    24TP   24-48S-TE 
+---+-]/[--+-------(T)
+                     
+Timer Data:    Timer Complete: [   24-48S-TE]  Recorded: [ TRUE]
+               Timer Enable:   [  24-48S-TEN]  Recorded: [ TRUE]
+               Timer Default: 0 minutes, 48 seconds.
+               Timer Minimum: 0 minutes, 48 seconds.
+ 
+ 
+End of equation 24-48S-TE from EPROM.
+ 
+Equation: 6NAFRE,  from EPROM
+ 
+    6NAFRES2I  LINK-S2OK  6NAFRE 
+---+---] [----+---] [----+----(R)
+                                 
+Equation: [6NAFRE]  Recorded: [ TRUE]
+ 
+End of equation 6NAFRE from EPROM.
+ 
+Equation: 6NAFYE,  from EPROM
+ 
+    6NAFYES2I  LINK-S2OK  6NAFYE 
+---+---] [----+---] [----+----(R)
+                                 
+Equation: [6NAFYE]  Recorded: [ TRUE]
+ 
+End of equation 6NAFYE from EPROM.
+ 
+Equation: 6NAGE,  from EPROM
+ 
+    6NAGES2I  LINK-S2OK  6NAGE 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [6NAGE]  Recorded: [ TRUE]
+ 
+End of equation 6NAGE from EPROM.
+ 
+Equation: 6NAYE,  from EPROM
+ 
+    6NAYES2I  LINK-S2OK  6NAYE 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [6NAYE]  Recorded: [ TRUE]
+ 
+End of equation 6NAYE from EPROM.
+ 
+Equation: 6SAFRE,  from EPROM
+ 
+    6SAFRES2I  LINK-S2OK  6SAFRE 
+---+---] [----+---] [----+----(R)
+                                 
+Equation: [6SAFRE]  Recorded: [ TRUE]
+ 
+End of equation 6SAFRE from EPROM.
+ 
+Equation: 6SAYE,  from EPROM
+ 
+    6SAYES2I  LINK-S2OK  6SAYE 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [6SAYE]  Recorded: [ TRUE]
+ 
+End of equation 6SAYE from EPROM.
+ 
+Equation: 6SRGP,  from EPROM
+ 
+    6SAYE  6SAFRE  6SRGP 
+---+-]/[--+--]/[--+---(R)
+                         
+Equation: [6SRGP]  Recorded: [ TRUE]
+ 
+End of equation 6SRGP from EPROM.
+ 
+Equation: 24-37S-TE,  from EPROM
+ 
+    24TP   24-37S-TE 
+---+-]/[--+-------(T)
+                     
+Timer Data:    Timer Complete: [   24-37S-TE]  Recorded: [ TRUE]
+               Timer Enable:   [  24-37S-TEN]  Recorded: [ TRUE]
+               Timer Default: 0 minutes, 37 seconds.
+               Timer Minimum: 0 minutes, 37 seconds.
+ 
+ 
+End of equation 24-37S-TE from EPROM.
+ 
+Equation: 14T35,  from EPROM
+ 
+    14T351I  LINK1OK  14T35 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [14T35]  Recorded: [ TRUE]
+ 
+End of equation 14T35 from EPROM.
+ 
+Equation: 24T35ON,  from EPROM
+ 
+    24T35ONRQ  24T35OFRQ   24L   24T35ON 
+---+---] [----+---]/[----+-] [--+-----(R)
+   |                     |               
+   | 24T35OF    24T35ON  |               
+   +---]/[----+---] [----|               
+                                         
+Equation: [24T35ON]  Recorded: [ TRUE]
+ 
+End of equation 24T35ON from EPROM.
+ 
+Equation: 14T25,  from EPROM
+ 
+    14T251I  LINK1OK  14T25 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [14T25]  Recorded: [ TRUE]
+ 
+End of equation 14T25 from EPROM.
+ 
+Equation: WTRMD15ON,  from EPROM
+ 
+    WTRMD15ONRQ  WTRMD15OFRQ   24L   WTRMD15ON 
+---+----] [-----+----]/[-----+-] [--+-------(R)
+   |                         |                 
+   | WTRMD15OF    WTRMD15ON  |                 
+   +----]/[-----+----] [-----|                 
+                                               
+Equation: [WTRMD15ON]  Recorded: [ TRUE]
+ 
+End of equation WTRMD15ON from EPROM.
+ 
+Equation: WTRMD15OF,  from EPROM
+ 
+    WTRMD15OFRQ  WTRMD15ONRQ  WTRMD15OF 
+---+----] [-----+----]/[-----+-------(R)
+   |                         |          
+   | WTRMD15ON    WTRMD15OF  |          
+   +----]/[-----+----] [-----|          
+                                        
+Equation: [WTRMD15OF]  Recorded: [ TRUE]
+ 
+End of equation WTRMD15OF from EPROM.
+ 
+Equation: WTRMD0ON,  from EPROM
+ 
+    WTRMD0ONRQ  WTRMD0OFRQ   24L   WTRMD0ON 
+---+----] [----+----]/[----+-] [--+------(R)
+   |                       |                
+   | WTRMD0OF    WTRMD0ON  |                
+   +----]/[----+----] [----+                
+                                            
+Equation: [WTRMD0ON]  Recorded: [ TRUE]
+ 
+End of equation WTRMD0ON from EPROM.
+ 
+Equation: WTRMD0OF,  from EPROM
+ 
+    WTRMD0OFRQ  WTRMD0ONRQ  WTRMD0OF 
+---+----] [----+----]/[----+------(R)
+   |                       |         
+   | WTRMD0ON    WTRMD0OF  |         
+   +----]/[----+----] [----+         
+                                     
+Equation: [WTRMD0OF]  Recorded: [ TRUE]
+ 
+End of equation WTRMD0OF from EPROM.
+ 
+Equation: WTRSMD0,  from EPROM
+ 
+    WTRMD0ON  WTRMD0OF  WTRSMD0 
+---+---]/[---+---] [---+-----(R)
+                                
+Equation: [WTRSMD0]  Recorded: [ TRUE]
+ 
+End of equation WTRSMD0 from EPROM.
+ 
+Equation: 24CS,  from EPROM
+ 
+    LINK-S2OK  24TP   24CS  
+---+---] [----+-]/[--+---(R)
+              |      |      
+              |24PRC |      
+              +-] [--|      
+                            
+Equation: [24CS]  Recorded: [ TRUE]
+ 
+End of equation 24CS from EPROM.
+ 
+Equation: WTRMD0,  from EPROM
+ 
+    WTRSMD0  WTRNMD0  WTRMD0 
+---+--] [---+--] [---+----(R)
+                             
+Equation: [WTRMD0]  Recorded: [ TRUE]
+ 
+End of equation WTRMD0 from EPROM.
+ 
+Equation: 24T35OF,  from EPROM
+ 
+    24T35OFRQ  24T35ONRQ  24T35OF 
+---+---] [----+---]/[----+-----(R)
+   |                     |        
+   | 24T35ON    24T35OF  |        
+   +---]/[----+---] [----|        
+                                  
+Equation: [24T35OF]  Recorded: [ TRUE]
+ 
+End of equation 24T35OF from EPROM.
+ 
+Equation: 14SSR,  from EPROM
+ 
+    14SSR1I  LINK1OK  14SSR 
+---+--] [---+--] [---+---(R)
+                            
+Equation: [14SSR]  Recorded: [ TRUE]
+ 
+End of equation 14SSR from EPROM.
+ 
+Equation: WTRREL,  from EPROM
+ 
+    WTRRELONRQ  WTRRELOFRQ  WTRMD0  LINK1OK  24TP          25CTP    24NSR     WTRREL 
+---+----] [----+----]/[----+--]/[--+--] [---+-]/[---------+-] [--+----] [----+----(R)
+   |           |                            |             |      |           |       
+   |  WTRREL   |                            |14TP   14SSR |      |24TURNBACK |       
+   +----] [----+                            +-]/[--+-]/[--|      +----] [----+       
+                                                                                     
+Equation: [WTRREL]  Recorded: [ TRUE]
+ 
+End of equation WTRREL from EPROM.
+ 
+Equation: 6NAHGR,  from EPROM
+ 
+    6NAHGRS2I  LINK-S2OK  6NAHGR 
+---+---] [----+---] [----+----(R)
+                                 
+Equation: [6NAHGR]  Recorded: [ TRUE]
+ 
+End of equation 6NAHGR from EPROM.
+ 
+Equation: 25CCAB-25,  from EPROM
+ 
+    6NAGE   24T15  ETRMD15  WTRMD15  24SSR  24WZ   25CCAB-25 
+---+--] [--+-] [--+--] [---+--] [---+-] [--+-] [--+-------(R)
+   |       |                                                 
+   |6NAFYE |                                                 
+   +--] [--+                                                 
+   |       |                                                 
+   |6NAYE  |                                                 
+   +--] [--+                                                 
+                                                             
+Equation: [25CCAB-25]  Recorded: [ TRUE]
+ 
+End of equation 25CCAB-25 from EPROM.
+ 
+Equation: 24CAB-40,  from EPROM
+ 
+    14T35  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0   WTRMD15    24NWZ   25CNSR  24NSR  24T35  NNWP   24CAB-40 
+---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--+---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+------(R)
+   |      |                  |                  |          |       |          |        |                                      
+   |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |       |24-37S-TE |24NRELS |                                      
+   +-] [--+--] [--+---]/[----|                  +---]/[----|       +---]/[----+--] [---|                                      
+          |       |                                                                                                           
+          |6SRGP  |                                                                                                           
+          +--] [--+                                                                                                           
+                                                                                                                              
+Equation: [24CAB-40]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-40 from EPROM.
+ 
+Equation: 24CAB-35,  from EPROM
+ 
+    14T25  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0   WTRMD15    24NWZ   25CNSR  24NSR  24T25  NNWP   24CAB-40  24CAB-35 
+---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--+---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+---]/[---+------(R)
+   |      |                  |                  |          |       |          |        |                                                
+   |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |       |24-37S-TE |24NRELS |                                                
+   +-] [--+--] [--+---]/[----|                  +---]/[----|       +---]/[----+--] [---|                                                
+          |       |                                                                                                                     
+          |6SRGP  |                                                                                                                     
+          +--] [--+                                                                                                                     
+                                                                                                                                        
+Equation: [24CAB-35]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-35 from EPROM.
+ 
+Equation: 25CCAB-15,  from EPROM
+ 
+    6NAGE   24T0   ETRMD0  24SSR  24WZ   25CCAB-25  25CCAB-15 
+---+--] [--+-] [--+--] [--+-] [--+-] [--+---]/[----+-------(R)
+   |       |                                                  
+   |6NAFYE |                                                  
+   +--] [--+                                                  
+   |       |                                                  
+   |6NAYE  |                                                  
+   +--] [--+                                                  
+   |       |                                                  
+   |6NAFRE |                                                  
+   +--] [--+                                                  
+                                                              
+Equation: [25CCAB-15]  Recorded: [ TRUE]
+ 
+End of equation 25CCAB-15 from EPROM.
+ 
+Equation: 25CCAB-SP,  from EPROM
+ 
+    6NAGE   24T0   ETRMD0  24SSR  24WZ   25CCAB-25  25CCAB-15  25CCAB-SP 
+---+--] [--+-] [--+--] [--+-] [--+-] [--+---]/[----+---]/[----+-------(R)
+   |       |      |       |      |      |                                
+   |6NAFYE |      |ETRREL |      |24REL |                                
+   +--] [--+      +--] [--+      +-] [--|                                
+   |       |                                                             
+   |6NAYE  |                                                             
+   +--] [--+                                                             
+   |       |                                                             
+   |6NAFRE |                                                             
+   +--] [--+                                                             
+                                                                         
+Equation: [25CCAB-SP]  Recorded: [ TRUE]
+ 
+End of equation 25CCAB-SP from EPROM.
+ 
+Equation: 25CCAB-EOB,  from EPROM
+ 
+    24SSR  25CCAB-25  25CCAB-15  25CCAB-SP  25CCAB-EOB 
+---+-] [--+---]/[----+---]/[----+---]/[----+--------(R)
+                                                       
+Equation: [25CCAB-EOB]  Recorded: [ TRUE]
+ 
+End of equation 25CCAB-EOB from EPROM.
+ 
+Equation: 24CAB-25,  from EPROM
+ 
+    14T15  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0   WTRMD15    24NWZ   25CNSR  24NSR  24T15  NNWP   24CAB-35  24CAB-40  24CAB-25 
+---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--+---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+---]/[---+---]/[---+------(R)
+   |      |                  |                  |          |       |          |        |                                                          
+   |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |       |24-37S-TE |24NRELS |                                                          
+   +-] [--+--] [--+---]/[----|                  +---]/[----|       +---]/[----+--] [---|                                                          
+          |       |                                                                                                                               
+          |6SRGP  |                                                                                                                               
+          +--] [--+                                                                                                                               
+                                                                                                                                                  
+Equation: [24CAB-25]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-25 from EPROM.
+ 
+Equation: 24CAB-15,  from EPROM
+ 
+    6SAYE              24-51S-TE  ETRMD0  WTRMD0   24NWZ   25CNSR  24NSR  24T0   NNWP   24CAB-25  24CAB-35  24CAB-40  24CAB-15 
+---+--] [-------------+---]/[----+--] [--+--] [--+--] [---+--] [--+-] [--+-] [--+-] [--+---]/[---+---]/[---+---]/[---+------(R)
+   |                  |                          |        |                                                                    
+   |6SAFRE            |                          |24NRELS |                                                                    
+   +--] [-------------+                          +--] [---|                                                                    
+   |                  |                                                                                                        
+   |6SRGP   24-50S-TE |                                                                                                        
+   +--] [--+---]/[----|                                                                                                        
+                                                                                                                               
+Equation: [24CAB-15]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-15 from EPROM.
+ 
+Equation: MODULE-HLTH,  from EPROM
+ 
+    SLOT1OK  MODULE-HLTH 
+---+--] [---+---------(R)
+                         
+Equation: [MODULE-HLTH]  Recorded: [ TRUE]
+ 
+End of equation MODULE-HLTH from EPROM.
+ 
+Equation: 24ST01O,  from EPROM
+ 
+    24ST0  LINK1OK  24ST01O 
+---+-] [--+--] [---+-----(R)
+                            
+Equation: [24ST01O]  Recorded: [ TRUE]
+ 
+End of equation 24ST01O from EPROM.
+ 
+Equation: 24NSR1O,  from EPROM
+ 
+    24NSR  LINK1OK  24NSR1O 
+---+-] [--+--] [---+-----(R)
+                            
+Equation: [24NSR1O]  Recorded: [ TRUE]
+ 
+End of equation 24NSR1O from EPROM.
+ 
+Equation: 24NT35,  from EPROM
+ 
+    24NT351I  LINK1OK  24NT35 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [24NT35]  Recorded: [ TRUE]
+ 
+End of equation 24NT35 from EPROM.
+ 
+Equation: 24CAB-EOB,  from EPROM
+ 
+    25CNSR  24T0   24CAB-40  24CAB-35  24CAB-25  24CAB-15  24CAB-RES  24CAB-EOB 
+---+--] [--+-] [--+---]/[---+---]/[---+---]/[---+---]/[---+---]/[----+-------(R)
+                                                                                
+Equation: [24CAB-EOB]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-EOB from EPROM.
+ 
+Equation: 24ST251O,  from EPROM
+ 
+    24ST25  LINK1OK  24ST251O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [24ST251O]  Recorded: [ TRUE]
+ 
+End of equation 24ST251O from EPROM.
+ 
+Equation: LINKS,  from EPROM
+ 
+    LINK-S2OK  LINK1OK  LINKS 
+---+---] [----+--] [---+---(R)
+                              
+Equation: [LINKS]  Recorded: [ TRUE]
+ 
+End of equation LINKS from EPROM.
+ 
+Equation: 24ST151O,  from EPROM
+ 
+    24ST15  LINK1OK  24ST151O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [24ST151O]  Recorded: [ TRUE]
+ 
+End of equation 24ST151O from EPROM.
+ 
+Equation: 24ST35,  from EPROM
+ 
+    24T35ON  24T35OF  24ST0  24ST15  24ST25  24ST35 
+---+--]/[---+--] [---+-] [--+--] [--+--] [--+----(R)
+                                                    
+Equation: [24ST35]  Recorded: [ TRUE]
+ 
+End of equation 24ST35 from EPROM.
+ 
+Equation: 24ST351O,  from EPROM
+ 
+    24ST35  LINK1OK  24ST351O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [24ST351O]  Recorded: [ TRUE]
+ 
+End of equation 24ST351O from EPROM.
+ 
+Equation: ETRSMD01O,  from EPROM
+ 
+    ETRSMD0  LINK1OK  ETRSMD01O 
+---+--] [---+--] [---+-------(R)
+                                
+Equation: [ETRSMD01O]  Recorded: [ TRUE]
+ 
+End of equation ETRSMD01O from EPROM.
+ 
+Equation: ETRSMD151O,  from EPROM
+ 
+    ETRSMD15  LINK1OK  ETRSMD151O 
+---+---] [---+--] [---+--------(R)
+                                  
+Equation: [ETRSMD151O]  Recorded: [ TRUE]
+ 
+End of equation ETRSMD151O from EPROM.
+ 
+Equation: 24REL1O,  from EPROM
+ 
+    24REL  LINK1OK  24REL1O 
+---+-] [--+--] [---+-----(R)
+                            
+Equation: [24REL1O]  Recorded: [ TRUE]
+ 
+End of equation 24REL1O from EPROM.
+ 
+Equation: 24WZ1O,  from EPROM
+ 
+    24WZ   LINK1OK  24WZ1O 
+---+-] [--+--] [---+----(R)
+                           
+Equation: [24WZ1O]  Recorded: [ TRUE]
+ 
+End of equation 24WZ1O from EPROM.
+ 
+Equation: 24ST45,  from EPROM
+ 
+    24T45ON  24T45OF  24ST0  24ST15  24ST25  24ST35  24ST45 
+---+--]/[---+--] [---+-] [--+--] [--+--] [--+--] [--+----(R)
+                                                            
+Equation: [24ST45]  Recorded: [ TRUE]
+ 
+End of equation 24ST45 from EPROM.
+ 
+Equation: 24T15ON,  from EPROM
+ 
+    24T15ONRQ  24T15OFRQ   24L   24T15ON 
+---+---] [----+---]/[----+-] [--+-----(R)
+   |                     |               
+   | 24T15OF    24T15ON  |               
+   +---]/[----+---] [----|               
+                                         
+Equation: [24T15ON]  Recorded: [ TRUE]
+ 
+End of equation 24T15ON from EPROM.
+ 
+Equation: WTRSMD15,  from EPROM
+ 
+    WTRMD15ON  WTRMD15OF  WTRSMD0  WTRSMD15 
+---+---]/[----+---] [----+--] [---+------(R)
+                                            
+Equation: [WTRSMD15]  Recorded: [ TRUE]
+ 
+End of equation WTRSMD15 from EPROM.
+ 
+Equation: WTRSMD151O,  from EPROM
+ 
+    WTRSMD15  LINK1OK  WTRSMD151O 
+---+---] [---+--] [---+--------(R)
+                                  
+Equation: [WTRSMD151O]  Recorded: [ TRUE]
+ 
+End of equation WTRSMD151O from EPROM.
+ 
+Equation: WTRSMD01O,  from EPROM
+ 
+    WTRSMD0  LINK1OK  WTRSMD01O 
+---+--] [---+--] [---+-------(R)
+                                
+Equation: [WTRSMD01O]  Recorded: [ TRUE]
+ 
+End of equation WTRSMD01O from EPROM.
+ 
+Equation: 25CNSR1O,  from EPROM
+ 
+    25CNSR  LINK1OK  25CNSR1O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [25CNSR1O]  Recorded: [ TRUE]
+ 
+End of equation 25CNSR1O from EPROM.
+ 
+Equation: 25CTURNBACK,  from EPROM
+ 
+    25CSSR  6NAHGR  25CTURNBACK 
+---+--]/[--+--] [--+---------(R)
+                                
+Equation: [25CTURNBACK]  Recorded: [ TRUE]
+ 
+End of equation 25CTURNBACK from EPROM.
+ 
+Equation: 742LNK1OKS2O,  from EPROM
+ 
+    LINK1OK  LINK-S2OK  742LNK1OKS2O 
+---+--] [---+---] [----+----------(R)
+                                     
+Equation: [742LNK1OKS2O]  Recorded: [ TRUE]
+ 
+End of equation 742LNK1OKS2O from EPROM.
+ 
+Equation: 742LNKS2OK1O,  from EPROM
+ 
+    LINK1OK  LINK-S2OK  742LNKS2OK1O 
+---+--] [---+---] [----+----------(R)
+                                     
+Equation: [742LNKS2OK1O]  Recorded: [ TRUE]
+ 
+End of equation 742LNKS2OK1O from EPROM.
+ 
+Equation: 24ST451O,  from EPROM
+ 
+    24ST45  LINK1OK  24ST451O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [24ST451O]  Recorded: [ TRUE]
+ 
+End of equation 24ST451O from EPROM.
+ 
+Equation: 6NASR,  from EPROM
+ 
+    6NASRS2I  LINK-S2OK  6NASR 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [6NASR]  Recorded: [ TRUE]
+ 
+End of equation 6NASR from EPROM.
+ 
+Equation: 24T35,  from EPROM
+ 
+    24ST35  24NT35  24T35 
+---+--] [--+--] [--+---(R)
+                          
+Equation: [24T35]  Recorded: [ TRUE]
+ 
+End of equation 24T35 from EPROM.
+ 
+Equation: 4NASR,  from EPROM
+ 
+    4NASRS2I  LINK-S2OK  4NASR 
+---+---] [---+---] [----+---(R)
+                               
+Equation: [4NASR]  Recorded: [ TRUE]
+ 
+End of equation 4NASR from EPROM.
+ 
+Equation: 14NOTP,  from EPROM
+ 
+    14NOTP1I  LINK1OK  14NOTP 
+---+---] [---+--] [---+----(R)
+                              
+Equation: [14NOTP]  Recorded: [ TRUE]
+ 
+End of equation 14NOTP from EPROM.
+ 
+Equation: ETRREL,  from EPROM
+ 
+    ETRRELONRQ  ETRRELOFRQ  ETRMD0  LINK1OK  24TP                25CTP    24NSR            ETRREL 
+---+----] [----+----]/[----+--]/[--+--] [---+-]/[---------------+-] [--+----] [-----------+----(R)
+   |           |                            |                   |      |                  |       
+   |  ETRREL   |                            |14TP      14SSR    |      |24TURNBACK        |       
+   +----] [----+                            +-]/[--+----]/[-----|      +----] [-----------+       
+                                            |                                             |       
+                                            |25CTP    25CNSR     24TP     14NOTP    24SSR |       
+                                            +-]/[--+----]/[-----+-] [--+----] [----+-] [--|       
+                                                   |            |                                 
+                                                   |25CTURNBACK |                                 
+                                                   +----] [-----|                                 
+                                                                                                  
+Equation: [ETRREL]  Recorded: [ TRUE]
+ 
+End of equation ETRREL from EPROM.
+ 
+Equation: ST_TSRS2O,  from EPROM
+ 
+    ST_TSR_2I  LINK2OK  LINK-S2OK  ST_TSRS2O 
+---+---] [----+--] [---+---] [----+-------(R)
+                                             
+Equation: [ST_TSRS2O]  Recorded: [ TRUE]
+ 
+End of equation ST_TSRS2O from EPROM.
+ 
+Equation: NT_TSR_1O,  from EPROM
+ 
+    NT_TSRS2I  LINK1OK  LINK-S2OK  NT_TSR_1O 
+---+---] [----+--] [---+---] [----+-------(R)
+                                             
+Equation: [NT_TSR_1O]  Recorded: [ TRUE]
+ 
+End of equation NT_TSR_1O from EPROM.
+ 
+Equation: 25CTURNBCK1O,  from EPROM
+ 
+    25CTURNBACK  LINK1OK  25CTURNBCK1O 
+---+----] [-----+--] [---+----------(R)
+                                       
+Equation: [25CTURNBCK1O]  Recorded: [ TRUE]
+ 
+End of equation 25CTURNBCK1O from EPROM.
+ 
+Equation: 24T45,  from EPROM
+ 
+    24ST45  24NT45  24T45 
+---+--] [--+--] [--+---(R)
+                          
+Equation: [24T45]  Recorded: [ TRUE]
+ 
+End of equation 24T45 from EPROM.
+ 
+Equation: 25CCE,  from EPROM
+ 
+    25CCAB-EOB  25CCS  25CCE 
+---+----] [----+-] [--+---(R)
+   |           |             
+   |25CCAB-SP  |             
+   +----] [----+             
+   |           |             
+   |25CCAB-15  |             
+   +----] [----+             
+   |           |             
+   |25CCAB-25  |             
+   +----] [----+             
+                             
+Equation: [25CCE]  Recorded: [ TRUE]
+ 
+End of equation 25CCE from EPROM.
+ 
+Equation: 25CTP1O,  from EPROM
+ 
+    25CTP  LINK1OK  25CTP1O 
+---+-] [--+--] [---+-----(R)
+                            
+Equation: [25CTP1O]  Recorded: [ TRUE]
+ 
+End of equation 25CTP1O from EPROM.
+ 
+Equation: 24CAB-RES,  from EPROM
+ 
+    6SAYE              ETRMD0  WTRMD0    24NWZ     25CNSR    24NSR     24T0   24CAB-15  24CAB-25  24CAB-35  24CAB-40  24CAB-RES 
+---+--] [-------------+--] [--+--] [--+----] [----+--] [--+----] [----+-] [--+---]/[---+---]/[---+---]/[---+---]/[---+-------(R)
+   |                  |       |       |           |       |           |                                                         
+   |6SAFRE            |ETRREL |WTRREL | 24NRELS   |       |24TURNBACK |                                                         
+   +--] [-------------+--] [--+--] [--+----] [----+       +----] [----+                                                         
+   |                  |               |           |                                                                             
+   |6SRGP   24-50S-TE |               |24TURNBACK |                                                                             
+   +--] [--+---]/[----|               +----] [----+                                                                             
+                                                                                                                                
+Equation: [24CAB-RES]  Recorded: [ TRUE]
+ 
+End of equation 24CAB-RES from EPROM.
+ 
+Equation: 24CE,  from EPROM
+ 
+    24CAB-EOB  24CS   24CE  
+---+---] [----+-] [--+---(R)
+   |          |             
+   |24CAB-RES |             
+   +---] [----|             
+   |          |             
+   |24CAB-15  |             
+   +---] [----|             
+   |          |             
+   |24CAB-25  |             
+   +---] [----|             
+   |          |             
+   |24CAB-35  |             
+   +---] [----|             
+   |          |             
+   |24CAB-40  |             
+   +---] [----|             
+                            
+Equation: [24CE]  Recorded: [ TRUE]
+ 
+End of equation 24CE from EPROM.
+ 
+Equation: NCHICHOOFS2O,  from EPROM
+ 
+    NCHI_CHO_OFF  LINK-S2OK  NCHICHOOFS2O 
+---+-----] [-----+---] [----+----------(R)
+                                          
+Equation: [NCHICHOOFS2O]  Recorded: [ TRUE]
+ 
+End of equation NCHICHOOFS2O from EPROM.
+ 
+Equation: XFR_TST_S2O,  from EPROM
+ 
+    XFR_TST  LINK-S2OK  XFR_TST_S2O 
+---+--] [---+---] [----+---------(R)
+                                    
+Equation: [XFR_TST_S2O]  Recorded: [ TRUE]
+ 
+End of equation XFR_TST_S2O from EPROM.
+ 
+Equation: 6NAHGR1O,  from EPROM
+ 
+    6NAHGR  LINK1OK  6NAHGR1O 
+---+--] [--+--] [---+------(R)
+                              
+Equation: [6NAHGR1O]  Recorded: [ TRUE]
+ 
+End of equation 6NAHGR1O from EPROM.
+ 
+Equation: 24TURNBACK,  from EPROM
+ 
+    24NSR  6SAHGR  24-51S-TE  24TURNBACK 
+---+-]/[--+--] [--+---] [----+--------(R)
+                                         
+Equation: [24TURNBACK]  Recorded: [ TRUE]
+ 
+End of equation 24TURNBACK from EPROM.
+ 
+Equation: 6SAHGR,  from EPROM
+ 
+    6SAHGRS2I  6SAHGR 
+---+---] [----+----(R)
+                      
+Equation: [6SAHGR]  Recorded: [FALSE]
+ 
+End of equation 6SAHGR from EPROM.
+ 
+Equation: 24NRELS,  from EPROM
+ 
+    24NREL   24NWZ  14TP   LINK1OK  25CTP  24NRELS 
+---+--] [---+-]/[--+-]/[--+--] [---+-] [--+-----(R)
+   |        |      |               |               
+   |24NRELS |      |24TP           |               
+   +--] [---|      +-]/[-----------+               
+                                                   
+Equation: [24NRELS]  Recorded: [FALSE]
+ 
+End of equation 24NRELS from EPROM.
+ 
+Equation: MR-LNK1OK1O,  from EPROM
+ 
+    MR-LNK1OK  LINK1OK  MR-LNK1OK1O 
+---+---] [----+--] [---+---------(R)
+                                    
+Equation: [MR-LNK1OK1O]  Recorded: [ TRUE]
+ 
+End of equation MR-LNK1OK1O from EPROM.
+ 
+Equation: MR-LNK1OK,  from EPROM
+ 
+    MR-LINK1OK2I  LINK-S2OK  MR-LNK1OK 
+---+-----] [-----+---] [----+-------(R)
+                                       
+Equation: [MR-LNK1OK]  Recorded: [ TRUE]
+ 
+End of equation MR-LNK1OK from EPROM.
+ 
+Equation: ME-LNKS2OK1O,  from EPROM
+ 
+    LINK-S2OK  LINK1OK  ME-LNKS2OK1O 
+---+---] [----+--] [---+----------(R)
+                                     
+Equation: [ME-LNKS2OK1O]  Recorded: [ TRUE]
+ 
+End of equation ME-LNKS2OK1O from EPROM.
+ 

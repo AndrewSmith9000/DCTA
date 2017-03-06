@@ -1,0 +1,399 @@
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 1
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+          Chassis Information Summary
+          ---------------------------
+
+     Chassis ID: 236     ID Strap: IIIXIIXX
+
+
+          Non-Vital Logic Equation Summary
+          --------------------------------
+
+     Non-Vital Logic equations defined: 46
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 2
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+            Ethernet Routing
+            ----------------
+
+     Port Number: 80
+     Inactivity Timeout(min): 60
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 3
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+            Telnet Settings
+            ---------------
+
+     Access to Ethernet Port 1: 1
+     Access to Ethernet Port 2: 1
+
+     Trusted Source 1: 0
+     Trusted Source 2: 0
+
+     Port Number: 23
+     Disable Inactivity Timeout: 0
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 4
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+          Non-Vital Timer Summary
+          -----------------------
+
+     Timer          Enable         Minimum (secs)  Default (secs)  Maximum(secs)
+     ------------   ------------   --------------  --------------  -------------
+     DLVY1TE        DLVY1TEN       2.5             2.5             2.5
+     MOD-HLTH-TE    MOD-HLTH-TEN   60.0             60.0             60.0
+
+     Total defined Non-Vital timers: 2 of 1023 used
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 5
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+          Data Recorder Variables
+          -----------------------
+
+
+        24RELOFRQ       24RELONRQ        24T0OFRQ        24T0ONRQ
+        24T15OFRQ       24T15ONRQ       24T25OFRQ       24T25ONRQ
+        24T35OFRQ       24T35ONRQ       24T45OFRQ       24T45ONRQ
+         24WZOFRQ        24WZONRQ          7424LK        7424RELK
+      7424RELOFFZ      7424RELONZ         7424T0K      7424T0OFFZ
+        7424T0ONZ        7424T15K     7424T15OFFZ      7424T15ONZ
+         7424T25K     7424T25OFFZ      7424T25ONZ        7424T35K
+      7424T35OFFZ      7424T35ONZ        7424T45K     7424T45OFFZ
+       7424T45ONZ         7424WZK      7424WZOFFZ       7424WZONZ
+         ETR-MD0K     ETR-MD0OFFZ      ETR-MD0ONZ       ETR-MD15K
+     ETR-MD15OFFZ     ETR-MD15ONZ        ETR-RELK     ETR-RELOFFZ
+       ETR-RELONZ      ETRMD0OFRQ      ETRMD0ONRQ     ETRMD15OFRQ
+      ETRMD15ONRQ      ETRRELOFRQ      ETRRELONRQ          FAULTK
+         LINKFAIL     MOD-HLTH-TE    MOD-HLTH-TEN      OFFICEBONK
+       OFFICEBONZ      OFFICENONK      OFFICENONZ        WTR-MD0K
+      WTR-MD0OFFZ      WTR-MD0ONZ       WTR-MD15K    WTR-MD15OFFZ
+      WTR-MD15ONZ        WTR-RELK     WTR-RELOFFZ      WTR-RELONZ
+       WTRMD0OFRQ      WTRMD0ONRQ     WTRMD15OFRQ     WTRMD15ONRQ
+       WTRRELOFRQ      WTRRELONRQ
+
+     Total Non-Vital Data Recorder Variables: 74 of 512 used
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 6
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+          Non-Vital Temporary Statuses
+          ----------------------------
+
+     Recorders are indicated by (R)
+
+        24RELOFRQ (R)      24RELONRQ (R)       24T0OFRQ (R)       24T0ONRQ (R)
+        24T15OFRQ (R)      24T15ONRQ (R)      24T25OFRQ (R)      24T25ONRQ (R)
+        24T35OFRQ (R)      24T35ONRQ (R)      24T45OFRQ (R)      24T45ONRQ (R)
+         24WZOFRQ (R)       24WZONRQ (R)           DLVY         ETRMD0OFRQ (R)
+       ETRMD0ONRQ (R)    ETRMD15OFRQ (R)    ETRMD15ONRQ (R)     ETRRELOFRQ (R)
+       ETRRELONRQ (R)     WTRMD0OFRQ (R)     WTRMD0ONRQ (R)    WTRMD15OFRQ (R)
+      WTRMD15ONRQ (R)     WTRRELOFRQ (R)     WTRRELONRQ (R)
+
+     Total Non-Vital Temporary Statuses: 27 of 4096 used
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 7
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+          Detailed Module Report
+          ----------------------
+
+     Module: Shared Status from Vital, IO Slot 11
+
+     Statuses:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+     Shared Status 1                  24L              Recorded
+     Shared Status 2                  24REL            Recorded
+     Shared Status 3                  24T0             Recorded
+     Shared Status 4                  24T15            Recorded
+     Shared Status 5                  24T25            Recorded
+     Shared Status 6                  24T35            Recorded
+     Shared Status 7                  24T45            Recorded
+     Shared Status 8                  24TP             Recorded
+     Shared Status 9                  24WZ             Recorded
+     Shared Status 10                 ETRMD0           Recorded
+     Shared Status 11                 ETRMD15          Recorded
+     Shared Status 12                 ETRREL           Recorded
+     Shared Status 13                 LINKS            Recorded
+     Shared Status 14                 MODULE-HLTH      Recorded
+     Shared Status 15                 WTRMD0           Recorded
+     Shared Status 16                 WTRMD15          Recorded
+     Shared Status 17                 WTRREL           Recorded
+
+     Module: VPM, System Slot 1
+
+     Vital Configuration Statuses:
+     Status Description               Status           Properties      Default Value
+     ------------------               ------           ----------      -------------
+       --- Skipped 29 unused statuses ---
+     Vital Setting 30                 NCHI_CHO_OFF     Recorded        Value: FALSE
+       --- Skipped 1 unused status ---
+     Vital Setting 32                 XFR_TST          Recorded        Value: FALSE
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 8
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+     
+     GENYSIS Protocol
+     Serial Slot: Ethernet
+     Port No: 7169					      
+	Duplex: Full
+     Control Latching: Non-Latched
+     Station Address: 1
+     Message Timeout: 10					      
+	Indication Delay: 0.0
+     Constant Indication: 0					      
+	Control Words: 13
+     Indication Words: 13
+     Default Non-Secure Polls Mode: 1
+     Ethernet Interface: Ethernet Port2
+     Genisys Trusted Source1: Disabled
+     Genisys Trusted Source2: Disabled
+
+:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+     Delivery                         DLV
+       --- Skipped 1 unused status ---
+     Office Link Fail                 LINKFAIL         Recorded
+       --- Skipped 2 unused statuses ---
+     Control 1                        7424T0ONZ        Recorded
+     Control 2                        7424T0OFFZ       Recorded
+     Control 3                        7424T15ONZ       Recorded
+     Control 4                        7424T15OFFZ      Recorded
+     Control 5                        7424T25ONZ       Recorded
+     Control 6                        7424T25OFFZ      Recorded
+     Control 7                        7424T35ONZ       Recorded
+     Control 8                        7424T35OFFZ      Recorded
+     Control 9                        7424T45ONZ       Recorded
+     Control 10                       7424T45OFFZ      Recorded
+     Control 11                       7424WZONZ        Recorded
+     Control 12                       7424WZOFFZ       Recorded
+     Control 13                       7424RELONZ       Recorded
+     Control 14                       7424RELOFFZ      Recorded
+       --- Skipped 2 unused statuses ---
+     Control 17                       ETR-MD0ONZ       Recorded
+     Control 18                       ETR-MD0OFFZ      Recorded
+     Control 19                       ETR-MD15ONZ      Recorded
+     Control 20                       ETR-MD15OFFZ     Recorded
+     Control 21                       ETR-RELONZ       Recorded
+     Control 22                       ETR-RELOFFZ      Recorded
+       --- Skipped 2 unused statuses ---
+     Control 25                       WTR-MD0ONZ       Recorded
+     Control 26                       WTR-MD0OFFZ      Recorded
+     Control 27                       WTR-MD15ONZ      Recorded
+     Control 28                       WTR-MD15OFFZ     Recorded
+     Control 29                       WTR-RELONZ       Recorded
+     Control 30                       WTR-RELOFFZ      Recorded
+       --- Skipped 72 unused statuses ---
+     Control 103                      OFFICENONZ       Recorded
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 9
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+     Control 104                      OFFICEBONZ       Recorded
+     Indication 1                     7424LK           Recorded
+     Indication 2                     7424WZK          Recorded
+     Indication 3                     7424RELK         Recorded
+       --- Skipped 4 unused statuses ---
+     Indication 8                     FAULTK           Recorded
+     Indication 9                     7424T0K          Recorded
+     Indication 10                    7424T15K         Recorded
+     Indication 11                    7424T25K         Recorded
+     Indication 12                    7424T35K         Recorded
+     Indication 13                    7424T45K         Recorded
+       --- Skipped 3 unused statuses ---
+     Indication 17                    ETR-MD0K         Recorded
+     Indication 18                    ETR-MD15K        Recorded
+     Indication 19                    ETR-RELK         Recorded
+       --- Skipped 5 unused statuses ---
+     Indication 25                    WTR-MD0K         Recorded
+     Indication 26                    WTR-MD15K        Recorded
+     Indication 27                    WTR-RELK         Recorded
+       --- Skipped 75 unused statuses ---
+     Indication 103                   OFFICENONK       Recorded
+     Indication 104                   OFFICEBONK       Recorded
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 10
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+          Cross Reference Report
+          ----------------------
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     24L                 7424LK
+
+     24REL               7424RELK
+
+     24T0                7424T0K        7424T15K       7424T25K       7424T35K       7424T45K
+
+     24T15               7424T15K       7424T25K       7424T35K       7424T45K
+
+     24T25               7424T25K       7424T35K       7424T45K
+
+     24T35               7424T35K       7424T45K
+
+     24T45               7424T45K
+
+     24TP                ETR-RELK       WTR-RELK
+
+     24WZ                7424WZK
+
+     7424RELOFFZ         24RELOFRQ      24RELONRQ
+
+     7424RELONZ          24RELOFRQ      24RELONRQ
+
+     7424T0OFFZ          24T0OFRQ       24T0ONRQ
+
+     7424T0ONZ           24T0OFRQ       24T0ONRQ
+
+     7424T15OFFZ         24T15OFRQ      24T15ONRQ
+
+     7424T15ONZ          24T15OFRQ      24T15ONRQ
+
+     7424T25OFFZ         24T25OFRQ      24T25ONRQ
+
+     7424T25ONZ          24T25OFRQ      24T25ONRQ
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 11
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     7424T35OFFZ         24T35OFRQ      24T35ONRQ
+
+     7424T35ONZ          24T35OFRQ      24T35ONRQ
+
+     7424T45OFFZ         24T45OFRQ      24T45ONRQ
+
+     7424T45ONZ          24T45OFRQ      24T45ONRQ
+
+     7424WZOFFZ          24WZOFRQ       24WZONRQ
+
+     7424WZONZ           24WZOFRQ       24WZONRQ
+
+     DLV                 DLVY1TE
+
+     DLVY                24RELOFRQ      24RELONRQ      24T0OFRQ       24T0ONRQ       24T15OFRQ
+                         24T15ONRQ      24T25OFRQ      24T25ONRQ      24T35OFRQ      24T35ONRQ
+                         24T45OFRQ      24T45ONRQ      24WZOFRQ       24WZONRQ       ETRMD0OFRQ
+                         ETRMD0ONRQ     ETRMD15OFRQ    ETRMD15ONRQ    ETRRELOFRQ     ETRRELONRQ
+                         OFFICEBONK     OFFICENONK     WTRMD0OFRQ     WTRMD0ONRQ     WTRMD15OFRQ
+                         WTRMD15ONRQ    WTRRELOFRQ     WTRRELONRQ
+
+     DLVY1TE             DLVY1TE
+
+     DLVY1TEN            DLVY           DLVY1TE
+
+     ETR-MD0OFFZ         ETRMD0OFRQ     ETRMD0ONRQ
+
+     ETR-MD0ONZ          ETRMD0OFRQ     ETRMD0ONRQ
+
+     ETR-MD15OFFZ        ETRMD15OFRQ    ETRMD15ONRQ
+
+     ETR-MD15ONZ         ETRMD15OFRQ    ETRMD15ONRQ
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 12
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     ETR-RELOFFZ         ETRRELOFRQ     ETRRELONRQ
+
+     ETR-RELONZ          ETRRELOFRQ     ETRRELONRQ
+
+     ETRMD0              ETR-MD0K       ETR-MD15K
+
+     ETRMD15             ETR-MD15K
+
+     ETRREL              ETR-RELK
+
+     LINKFAIL            FAULTK
+
+     LINKS               FAULTK
+
+     MOD-HLTH-TE         FAULTK
+
+     MODULE-HLTH         MOD-HLTH-TE
+
+     OFFICEBONK          OFFICEBONK     OFFICENONK
+
+     OFFICEBONZ          OFFICEBONK     OFFICENONK
+
+     OFFICENONK          OFFICEBONK     OFFICENONK
+
+     OFFICENONZ          OFFICEBONK     OFFICENONK
+
+     WTR-MD0OFFZ         WTRMD0OFRQ     WTRMD0ONRQ
+
+     WTR-MD0ONZ          WTRMD0OFRQ     WTRMD0ONRQ
+
+     WTR-MD15OFFZ        WTRMD15OFRQ    WTRMD15ONRQ
+
+     WTR-MD15ONZ         WTRMD15OFRQ    WTRMD15ONRQ
+
+     WTR-RELOFFZ         WTRRELOFRQ     WTRRELONRQ
+
+     WTR-RELONZ          WTRRELOFRQ     WTRRELONRQ
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   NV-Validation CRC 30CA70E6,  NV-V2 CRC 69355EB6  Compressed   Page: 13
+     S1 EPROM, NV-EPT CRC F8BD, NV-EPT CHECKSUM 334C
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     WTRMD0              WTR-MD0K       WTR-MD15K
+
+     WTRMD15             WTR-MD15K
+
+     WTRREL              WTR-RELK
+

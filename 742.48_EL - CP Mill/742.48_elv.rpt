@@ -1,0 +1,1000 @@
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 1
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+          Chassis Information Summary
+          ---------------------------
+
+            Input Health Recovery Delay
+            ---------------------------
+
+     Input Health Recovery Delay: 255
+     IHRD for ElectroCode Track Inputs Enabled: 1
+     IHRD for Discrete Vital Inputs Enabled: 1
+     Input Health Recovery Minimum Interval(sec): 30
+     Input Health Recovery Maximum Interval(sec): 1800
+
+     Controller:  ELECTROLOGIXS-VPM3
+     Note:  The following VPM-3 Executives or higher versions are required:
+            Interlocking only version 6.05,
+            Crossing only version 7.03 and
+            Interlocking/Crossing combined version 8.04.
+
+     Railroad: DCTA
+     Chassis ID: 236     ID Strap: IIIXIIXX
+
+     Designer: ALSTOM
+     Area/Subdivision:
+     Location Name/Address: CP MILL REMOTE M.P. 742.58
+     Location number: 236
+     Equation filename: c:\~dcta\742.48_el - cp mill\742.48_el.veq
+     Network filename: c:\~dcta\742.48_el - cp mill\742.48_el.ncf
+     Logic Notation filename: c:\~dcta\742.48_el - cp mill\742.48_el.ini
+     Chassis filename: c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Revisions notes: 0
+
+     Flash rate: 60
+     Default Crossing Flash Rate: 55
+     Minimum Crossing Flash Rate: 55
+     Maximum Crossing Flash Rate: 55
+
+     Application comments:
+
+
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 2
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+          Module Summary
+          --------------
+
+     Modules in use: 4
+
+     Slot             Configuration
+     ----             -------------
+     IO Slot 1:       CAB-16S
+     IO Slot 10:      Empty
+     IO Slot 11:      Shared Status from Vital
+     IO Slot 12:      Shared Status from NonVital
+     System Slot 1:   VPM
+     System Slot 2:   Empty
+     System Slot 3:   Empty
+
+
+          Vital Logic Equation Summary
+          ----------------------------
+
+     Vital Logic equations defined: 128
+
+
+          Network Summary
+          ---------------
+
+     Ethernet Port1
+     IP Address - 172.18.15.236
+
+     Ethernet Port2
+     IP Address - 172.16.15.236
+
+     Port 1  Network ID: 0
+     Mode: Point to Point
+
+       Remote 1  Network ID Min: 257  Network ID Max: 257 Local Network ID Min: 312 Host Network ID Max: 312
+       Number Input Bytes: 4  Number Output Bytes: 4
+       Default Protocol: RP2000
+       Message Interval: 248 ms  Link Timeout: 1000 ms
+       Update Period - Min: 248 ms, Max: 60000 ms, Def: 248 ms
+       Acknowledge Timeout - Min: 248 ms, Max: 180000 ms, Def: 992 ms
+       Heartbeat Message Interval 0 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 3
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+       Heartbeat Message Interval 1 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 2 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 3 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Remote Output Change Behavior: Send on Change
+       Maximum Send Time Difference - Min: 100 ms, Max: 1200000 ms, Def: 7200 ms
+       Maximum Receive Time Difference - Min: 100 ms, Max: 1200000 ms, Def: 2000 ms
+       Remote Input Link Down Behavior: All Statuses Go False
+       Destination IP Address - 0.0.0.0
+       Destination Port Number - 8280
+
+
+     Port 2  Network ID: 0
+
+     Port 3  Network ID: 0
+     Mode: Point to Point
+
+       Remote 1  Network ID Min: 306  Network ID Max: 306 Local Network ID Min: 311 Host Network ID Max: 311
+       Number Input Bytes: 4  Number Output Bytes: 4
+       Default Protocol: RP2000
+       Message Interval: 248 ms  Link Timeout: 1000 ms
+       Update Period - Min: 248 ms, Max: 60000 ms, Def: 248 ms
+       Acknowledge Timeout - Min: 248 ms, Max: 180000 ms, Def: 992 ms
+       Heartbeat Message Interval 0 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 1 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 2 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 3 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Remote Output Change Behavior: Send on Change
+       Maximum Send Time Difference - Min: 2100 ms, Max: 2100 ms, Def: 2100 ms
+       Maximum Receive Time Difference - Min: 2100 ms, Max: 2100 ms, Def: 2100 ms
+       Remote Input Link Down Behavior: All Statuses Go False
+       Destination IP Address - 172.18.15.216
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 4
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+       Destination Port Number - 8282
+
+     Mode: Point to Point
+
+       Remote 2  Network ID Min: 706  Network ID Max: 706 Local Network ID Min: 711 Host Network ID Max: 711
+       Number Input Bytes: 1  Number Output Bytes: 1
+       Default Protocol: RP2000
+       Message Interval: 248 ms  Link Timeout: 1000 ms
+       Update Period - Min: 248 ms, Max: 60000 ms, Def: 248 ms
+       Acknowledge Timeout - Min: 248 ms, Max: 180000 ms, Def: 992 ms
+       Heartbeat Message Interval 0 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 1 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 2 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Heartbeat Message Interval 3 - Min: 248 ms, Max: 840000 ms, Def: 4960 ms
+       Remote Output Change Behavior: Send on Change
+       Maximum Send Time Difference - Min: 2100 ms, Max: 2100 ms, Def: 2100 ms
+       Maximum Receive Time Difference - Min: 2100 ms, Max: 2100 ms, Def: 2100 ms
+       Remote Input Link Down Behavior: All Statuses Go False
+       Destination IP Address - 172.18.5.217
+       Destination Port Number - 8281
+
+
+
+     Port 1  Remote 1
+
+     Link Up                          LINK-S2OK        Recorded
+
+     Input 1                          6SAYES2I         Recorded
+     Input 2                          6SAFRES2I        Recorded
+     Input 4                          6NAGES2I         Recorded
+     Input 5                          6NAFYES2I        Recorded
+     Input 6                          6NAYES2I         Recorded
+     Input 7                          6NAFRES2I        Recorded
+     Input 15                         6NAHGRS2I        Recorded
+     Input 16                         6NASRS2I         Recorded
+     Input 17                         6SAHGRS2I
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 5
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+     Input 18                         6SASRS2I         Recorded
+     Input 19                         4NASRS2I         Recorded
+     Input 22                         24TRS2I          Recorded
+     Input 24                         25CTPRS2I        Recorded
+     Input 26                         NT_TSRS2I        Recorded
+     Input 28                         MR-LINK1OK2I
+
+     Output 1                         ST_TSRS2O        Recorded
+     Output 2                         742LNK1OKS2O     Recorded
+     Output 3                         NCHICHOOFS2O     Recorded
+     Output 4                         XFR_TST_S2O      Recorded
+
+
+
+
+
+     Port 3  Remote 1
+
+     Link Up                          LINK1OK          Recorded
+
+     Input 1                          24SSR1I          Recorded
+     Input 2                          24PRC1I          Recorded
+     Input 5                          24NT01I          Recorded
+     Input 6                          24NT151I         Recorded
+     Input 7                          24NT251I         Recorded
+     Input 8                          24NT351I         Recorded
+     Input 9                          24NT451I         Recorded
+     Input 12                         ETRNMD01I        Recorded
+     Input 13                         ETRNMD151I       Recorded
+     Input 15                         WTRNMD01I        Recorded
+     Input 16                         WTRNMD151I       Recorded
+     Input 19                         14TP1I           Recorded
+     Input 20                         14SSR1I          Recorded
+     Input 21                         14NOTP1I         Recorded
+     Input 23                         24NWZ1I          Recorded
+     Input 24                         24NREL1I         Recorded
+     Input 26                         14T151I          Recorded
+     Input 27                         14T251I          Recorded
+     Input 28                         14T351I          Recorded
+
+     Output 1                         24NSR1O          Recorded
+     Output 5                         24ST01O          Recorded
+     Output 6                         24ST151O         Recorded
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 6
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+     Output 7                         24ST251O         Recorded
+     Output 8                         24ST351O         Recorded
+     Output 9                         24ST451O         Recorded
+     Output 12                        ETRSMD01O        Recorded
+     Output 13                        ETRSMD151O       Recorded
+     Output 15                        WTRSMD01O        Recorded
+     Output 16                        WTRSMD151O       Recorded
+     Output 18                        25CTP1O          Recorded
+     Output 20                        6NAHGR1O         Recorded
+     Output 24                        24WZ1O           Recorded
+     Output 25                        24REL1O          Recorded
+     Output 27                        25CNSR1O         Recorded
+     Output 28                        25CTURNBCK1O     Recorded
+     Output 30                        MR-LNK1OK1O      Recorded
+     Output 31                        ME-LNKS2OK1O     Recorded
+
+     Port 3  Remote 2
+
+     Link Up                          LINK2OK          Recorded
+
+     Input 1                          ST_TSR_2I        Recorded
+     Input 2                          NNWP_2I          Recorded
+
+     Output 1                         NT_TSR_1O        Recorded
+     Output 2                         742LNKS2OK1O     Recorded
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 7
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Rate Table Report
+          -----------------
+
+     Defined unique rate tables: 1
+     Rate table: DCTA
+
+     Rate   On Time   Off Time   Description
+     ----   -------   --------   -----------
+        1         0          0   Custom Rate 1
+        2         0          0   Custom Rate 2
+        3       248        256   EOB
+        4       272        280   S&P
+        5       296        440   YARD
+        6       432        424   10
+        7       488        488   RESTRICTED
+        8       552        552   15
+        9       424        808   20
+       10       680        680   25
+       11       504        992   35
+       12       552       1080   40
+       13       600       1168   45
+       14       664       1248   55
+       15      1032       1024   60
+       16         0          0   Custom Rate 16
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 8
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Vital Timer Summary
+          -------------------
+
+     Timer          Enable         Minimum (secs)  Default (secs)  Maximum(secs)
+     ------------   ------------   --------------  --------------  -------------
+     24-37S-TE      24-37S-TEN     37              37              37
+     24-48S-TE      24-48S-TEN     48              48              48
+     24-51S-TE      24-51S-TEN     51              51              51
+     24-50S-TE      24-50S-TEN     50              50              50
+
+     Total defined Vital timers: 4 of 127 used
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 9
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Data Recorder Variables
+          -----------------------
+
+            4NASR        4NASRS2I          6NAFRE       6NAFRES2I
+           6NAFYE       6NAFYES2I           6NAGE        6NAGES2I
+           6NAHGR        6NAHGR1O       6NAHGRS2I           6NASR
+         6NASRS2I           6NAYE        6NAYES2I          6SAFRE
+        6SAFRES2I           6SASR        6SASRS2I           6SAYE
+         6SAYES2I           6SRGP          14NOTP        14NOTP1I
+            14SSR         14SSR1I           14T15           14T25
+            14T35         14T151I         14T251I         14T351I
+             14TP          14TP1I       24-37S-TE      24-37S-TEN
+        24-48S-TE      24-48S-TEN       24-50S-TE      24-50S-TEN
+        24-51S-TE      24-51S-TEN        24CAB-15        24CAB-25
+         24CAB-35        24CAB-40       24CAB-EOB       24CAB-RES
+             24CE            24CS             24L          24NREL
+         24NREL1I           24NSR         24NSR1O           24NT0
+          24NT01I          24NT15          24NT25          24NT35
+           24NT45        24NT151I        24NT251I        24NT351I
+         24NT451I           24NWZ         24NWZ1I           24PRC
+          24PRC1I           24REL         24REL1O           24SSR
+          24SSR1I           24ST0         24ST01O          24ST15
+           24ST25          24ST35          24ST45        24ST151O
+         24ST251O        24ST351O        24ST451O            24T0
+           24T0OF          24T0ON           24T15         24T15OF
+          24T15ON           24T25         24T25OF         24T25ON
+            24T35         24T35OF         24T35ON           24T45
+          24T45OF         24T45ON            24TP         24TRS2I
+       24TURNBACK            24WZ          24WZ1O          24WZOF
+           24WZON       25CCAB-15       25CCAB-25      25CCAB-EOB
+        25CCAB-SP           25CCE           25CCS          25CNSR
+         25CNSR1O          25CSSR           25CTP         25CTP1O
+        25CTPRS2I     25CTURNBACK    25CTURNBCK1O    742LNK1OKS2O
+     742LNKS2OK1O          ETRMD0        ETRMD0OF        ETRMD0ON
+          ETRMD15       ETRMD15OF       ETRMD15ON         ETRNMD0
+        ETRNMD01I        ETRNMD15      ETRNMD151I          ETRREL
+          ETRSMD0       ETRSMD01O        ETRSMD15      ETRSMD151O
+        LINK-S2OK         LINK1OK         LINK2OK           LINKS
+     ME-LNKS2OK1O     MODULE-HLTH       MR-LNK1OK     MR-LNK1OK1O
+     NCHI_CHO_OFF    NCHICHOOFS2O            NNWP         NNWP_2I
+        NT_TSR_1O       NT_TSRS2I         SLOT1OK       ST_TSR_2I
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 10
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+        ST_TSRS2O          WTRMD0        WTRMD0OF        WTRMD0ON
+          WTRMD15       WTRMD15OF       WTRMD15ON         WTRNMD0
+        WTRNMD01I        WTRNMD15      WTRNMD151I          WTRREL
+          WTRSMD0       WTRSMD01O        WTRSMD15      WTRSMD151O
+
+     Total Vital Data Recorder Variables: 170 of 512 used
+          XFR_TST     XFR_TST_S2O
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 11
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Vital Temporary Statuses
+          ------------------------
+
+     Recorders are indicated by (R)
+
+            4NASR (R)         6NAFRE (R)         6NAFYE (R)          6NAGE (R)
+           6NAHGR (R)          6NASR (R)          6NAYE (R)         6SAFRE (R)
+           6SAHGR              6SASR (R)          6SAYE (R)          6SRGP (R)
+           14NOTP (R)          14SSR (R)          14T15 (R)          14T25 (R)
+            14T35 (R)           14TP (R)           24CS (R)            24L (R)
+           24NREL (R)        24NRELS              24NSR (R)          24NT0 (R)
+           24NT15 (R)         24NT25 (R)         24NT35 (R)         24NT45 (R)
+            24NWZ (R)          24PRC (R)          24REL (R)          24SSR (R)
+            24ST0 (R)         24ST15 (R)         24ST25 (R)         24ST35 (R)
+           24ST45 (R)           24T0 (R)         24T0OF (R)         24T0ON (R)
+            24T15 (R)        24T15OF (R)        24T15ON (R)          24T25 (R)
+          24T25OF (R)        24T25ON (R)          24T35 (R)        24T35OF (R)
+          24T35ON (R)          24T45 (R)        24T45OF (R)        24T45ON (R)
+             24TP (R)     24TURNBACK (R)           24WZ (R)         24WZOF (R)
+           24WZON (R)          25CCS (R)         25CNSR (R)         25CSSR (R)
+            25CTP (R)    25CTURNBACK (R)         ETRMD0 (R)       ETRMD0OF (R)
+         ETRMD0ON (R)        ETRMD15 (R)      ETRMD15OF (R)      ETRMD15ON (R)
+          ETRNMD0 (R)       ETRNMD15 (R)         ETRREL (R)        ETRSMD0 (R)
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 12
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+         ETRSMD15 (R)          LINKS (R)    MODULE-HLTH (R)      MR-LNK1OK (R)
+             NNWP (R)         WTRMD0 (R)       WTRMD0OF (R)       WTRMD0ON (R)
+          WTRMD15 (R)      WTRMD15OF (R)      WTRMD15ON (R)        WTRNMD0 (R)
+         WTRNMD15 (R)         WTRREL (R)        WTRSMD0 (R)       WTRSMD15 (R)
+
+     Total Vital Temporary Statuses: 88 of 4096 used
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 13
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Detailed Module Report
+          ----------------------
+
+     Module: CAB-16S, IO Slot 1
+
+     Statuses:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+     Health                           SLOT1OK          Recorded
+
+     Cab Output: 1
+     Cab enable status: 25CCE
+     Cab enable mode: Independent of shunt
+     Rate table name: DCTA
+
+     Rate selector statuses:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+       --- Skipped 2 unused statuses ---
+     Cab Rate 3                       25CCAB-EOB       Recorded
+     Cab Rate 4                       25CCAB-SP        Recorded
+       --- Skipped 3 unused statuses ---
+     Cab Rate 8                       25CCAB-15        Recorded
+       --- Skipped 1 unused status ---
+     Cab Rate 10                      25CCAB-25        Recorded
+       --- Skipped 6 unused statuses ---
+
+     Cab Output: 2
+     Cab enable status: 24CE
+     Cab enable mode: Independent of shunt
+     Rate table name: DCTA
+
+     Rate selector statuses:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+       --- Skipped 2 unused statuses ---
+     Cab Rate 3                       24CAB-EOB        Recorded
+       --- Skipped 3 unused statuses ---
+     Cab Rate 7                       24CAB-RES        Recorded
+     Cab Rate 8                       24CAB-15         Recorded
+       --- Skipped 1 unused status ---
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 14
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+     Cab Rate 10                      24CAB-25         Recorded
+     Cab Rate 11                      24CAB-35         Recorded
+     Cab Rate 12                      24CAB-40         Recorded
+       --- Skipped 4 unused statuses ---
+
+     Module: Shared Status from NonVital, IO Slot 12
+
+     Statuses:
+     Status Description               Status           Properties
+     ------------------               ------           ----------
+     Shared Status 1                  24RELOFRQ        Recorded
+     Shared Status 2                  24RELONRQ        Recorded
+     Shared Status 3                  24T0OFRQ         Recorded
+     Shared Status 4                  24T0ONRQ         Recorded
+     Shared Status 5                  24T15OFRQ        Recorded
+     Shared Status 6                  24T15ONRQ        Recorded
+     Shared Status 7                  24T25OFRQ        Recorded
+     Shared Status 8                  24T25ONRQ        Recorded
+     Shared Status 9                  24T35OFRQ        Recorded
+     Shared Status 10                 24T35ONRQ        Recorded
+     Shared Status 11                 24T45OFRQ        Recorded
+     Shared Status 12                 24T45ONRQ        Recorded
+     Shared Status 13                 24WZOFRQ         Recorded
+     Shared Status 14                 24WZONRQ         Recorded
+     Shared Status 15                 ETRMD0OFRQ       Recorded
+     Shared Status 16                 ETRMD0ONRQ       Recorded
+     Shared Status 17                 ETRMD15OFRQ      Recorded
+     Shared Status 18                 ETRMD15ONRQ      Recorded
+     Shared Status 19                 ETRRELOFRQ       Recorded
+     Shared Status 20                 ETRRELONRQ       Recorded
+     Shared Status 21                 WTRMD0OFRQ       Recorded
+     Shared Status 22                 WTRMD0ONRQ       Recorded
+     Shared Status 23                 WTRMD15OFRQ      Recorded
+     Shared Status 24                 WTRMD15ONRQ      Recorded
+     Shared Status 25                 WTRRELOFRQ       Recorded
+     Shared Status 26                 WTRRELONRQ       Recorded
+
+     Module: VPM, System Slot 1
+
+     Vital Configuration Statuses:
+     Status Description               Status           Properties      Default Value
+     ------------------               ------           ----------      -------------
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 15
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+       --- Skipped 29 unused statuses ---
+     Vital Setting 30                 NCHI_CHO_OFF     Recorded        Value: FALSE
+       --- Skipped 1 unused status ---
+     Vital Setting 32                 XFR_TST          Recorded        Value: FALSE
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 16
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Cross Reference Report
+          ----------------------
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     4NASR               25CNSR
+
+     4NASRS2I            4NASR
+
+     6NAFRE              25CCAB-15      25CCAB-SP
+
+     6NAFRES2I           6NAFRE
+
+     6NAFYE              25CCAB-15      25CCAB-25      25CCAB-SP
+
+     6NAFYES2I           6NAFYE
+
+     6NAGE               25CCAB-15      25CCAB-25      25CCAB-SP
+
+     6NAGES2I            6NAGE
+
+     6NAHGR              6NAHGR1O       25CTURNBACK
+
+     6NAHGRS2I           6NAHGR
+
+     6NASR               24NSR
+
+     6NASRS2I            6NASR
+
+     6NAYE               25CCAB-15      25CCAB-25      25CCAB-SP
+
+     6NAYES2I            6NAYE
+
+     6SAFRE              6SRGP          24CAB-15       24CAB-25       24CAB-35       24CAB-40
+                         24CAB-RES
+
+     6SAFRES2I           6SAFRE
+
+     6SAHGR              24TURNBACK
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 17
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     6SAHGRS2I           6SAHGR
+
+     6SASR               25CSSR
+
+     6SASRS2I            6SASR
+
+     6SAYE               6SRGP          24CAB-15       24CAB-25       24CAB-35       24CAB-40
+                         24CAB-RES
+
+     6SAYES2I            6SAYE
+
+     6SRGP               24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+
+     14NOTP              24REL          ETRREL
+
+     14NOTP1I            14NOTP
+
+     14SSR               ETRREL         WTRREL
+
+     14SSR1I             14SSR
+
+     14T15               24CAB-25
+
+     14T25               24CAB-35
+
+     14T35               24CAB-40
+
+     14T151I             14T15
+
+     14T251I             14T25
+
+     14T351I             14T35
+
+     14TP                24CAB-25       24CAB-35       24CAB-40       24NRELS        ETRREL
+                         WTRREL
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 18
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     14TP1I              14TP
+
+     24-37S-TE           24CAB-25       24CAB-35       24CAB-40
+
+     24-48S-TE           24CAB-25       24CAB-35       24CAB-40
+
+     24-50S-TE           24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+
+     24-51S-TE           24CAB-15       24CAB-25       24CAB-35       24CAB-40       24TURNBACK
+
+     24CAB-15            24CAB-EOB      24CAB-RES      24CE
+
+     24CAB-25            24CAB-15       24CAB-EOB      24CAB-RES      24CE
+
+     24CAB-35            24CAB-15       24CAB-25       24CAB-EOB      24CAB-RES      24CE
+
+     24CAB-40            24CAB-15       24CAB-25       24CAB-35       24CAB-EOB      24CAB-RES
+                         24CE
+
+     24CAB-EOB           24CE
+
+     24CAB-RES           24CAB-EOB      24CE
+
+     24CS                24CE
+
+     24L                 24T0ON         24T15ON        24T25ON        24T35ON        24T45ON
+                         24WZON         ETRMD0ON       ETRMD15ON      WTRMD0ON       WTRMD15ON
+
+     24NREL              24NRELS
+
+     24NREL1I            24NREL
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 19
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     24NRELS             24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+                         24NRELS
+
+     24NSR               24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+                         24L            24NSR          24NSR1O        24TURNBACK     ETRREL
+                         WTRREL
+
+     24NT0               24T0
+
+     24NT01I             24NT0
+
+     24NT15              24T15
+
+     24NT25              24T25
+
+     24NT35              24T35
+
+     24NT45              24T45
+
+     24NT151I            24NT15
+
+     24NT251I            24NT25
+
+     24NT351I            24NT35
+
+     24NT451I            24NT45
+
+     24NWZ               24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+                         24NRELS
+
+     24NWZ1I             24NWZ
+
+     24PRC               24CS
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 20
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     24PRC1I             24PRC
+
+     24REL               24REL          24REL1O        25CCAB-SP
+
+     24RELOFRQ           24REL
+
+     24RELONRQ           24REL
+
+     24SSR               24L            24REL          24SSR          25CCAB-15      25CCAB-25
+                         25CCAB-EOB     25CCAB-SP      ETRREL
+
+     24SSR1I             24SSR
+
+     24ST0               24ST01O        24ST15         24ST25         24ST35         24ST45
+                         24T0
+
+     24ST15              24ST25         24ST35         24ST45         24ST151O       24T15
+
+     24ST25              24ST35         24ST45         24ST251O       24T25
+
+     24ST35              24ST45         24ST351O       24T35
+
+     24ST45              24ST451O       24T45
+
+     24T0                24CAB-15       24CAB-EOB      24CAB-RES      25CCAB-15      25CCAB-SP
+
+     24T0OF              24ST0          24T0OF         24T0ON
+
+     24T0OFRQ            24T0OF         24T0ON
+
+     24T0ON              24ST0          24T0OF         24T0ON
+
+     24T0ONRQ            24T0OF         24T0ON
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 21
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     24T15               24CAB-25       25CCAB-25
+
+     24T15OF             24ST15         24T15OF        24T15ON
+
+     24T15OFRQ           24T15OF        24T15ON
+
+     24T15ON             24ST15         24T15OF        24T15ON
+
+     24T15ONRQ           24T15OF        24T15ON
+
+     24T25               24CAB-35
+
+     24T25OF             24ST25         24T25OF        24T25ON
+
+     24T25OFRQ           24T25OF        24T25ON
+
+     24T25ON             24ST25         24T25OF        24T25ON
+
+     24T25ONRQ           24T25OF        24T25ON
+
+     24T35               24CAB-40
+
+     24T35OF             24ST35         24T35OF        24T35ON
+
+     24T35OFRQ           24T35OF        24T35ON
+
+     24T35ON             24ST35         24T35OF        24T35ON
+
+     24T35ONRQ           24T35OF        24T35ON
+
+     24T45OF             24ST45         24T45OF        24T45ON
+
+     24T45OFRQ           24T45OF        24T45ON
+
+     24T45ON             24ST45         24T45OF        24T45ON
+
+     24T45ONRQ           24T45OF        24T45ON
+
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 22
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     24TP                24-37S-TE      24-48S-TE      24-50S-TE      24-51S-TE      24CS
+                         24NRELS        24NSR          24REL          24SSR          ETRREL
+                         WTRREL
+
+     24TRS2I             24TP
+
+     24TURNBACK          24CAB-RES      ETRREL         WTRREL
+
+     24WZ                24REL          24WZ1O         25CCAB-15      25CCAB-25      25CCAB-SP
+
+     24WZOF              24WZ           24WZOF         24WZON
+
+     24WZOFRQ            24WZOF         24WZON
+
+     24WZON              24WZ           24WZOF         24WZON
+
+     24WZONRQ            24WZOF         24WZON
+
+     25CCAB-15           25CCAB-EOB     25CCAB-SP      25CCE
+
+     25CCAB-25           25CCAB-15      25CCAB-EOB     25CCAB-SP      25CCE
+
+     25CCAB-EOB          25CCE
+
+     25CCAB-SP           25CCAB-EOB     25CCE
+
+     25CCS               25CCE
+
+     25CNSR              24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-EOB
+                         24CAB-RES      24REL          25CNSR         25CNSR1O       ETRREL
+
+     25CSSR              25CSSR         25CTURNBACK
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 23
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     25CTP               24NRELS        24REL          25CCS          25CNSR         25CSSR
+                         25CTP1O        ETRREL         WTRREL
+
+     25CTPRS2I           25CTP
+
+     25CTURNBACK         24REL          25CTURNBCK1O   ETRREL
+
+     ETRMD0              24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+                         25CCAB-15      25CCAB-SP      ETRREL
+
+     ETRMD0OF            ETRMD0OF       ETRMD0ON       ETRSMD0
+
+     ETRMD0OFRQ          ETRMD0OF       ETRMD0ON
+
+     ETRMD0ON            ETRMD0OF       ETRMD0ON       ETRSMD0
+
+     ETRMD0ONRQ          ETRMD0OF       ETRMD0ON
+
+     ETRMD15             24CAB-25       24CAB-35       24CAB-40       25CCAB-25
+
+     ETRMD15OF           ETRMD15OF      ETRMD15ON      ETRSMD15
+
+     ETRMD15OFRQ         ETRMD15OF      ETRMD15ON
+
+     ETRMD15ON           ETRMD15OF      ETRMD15ON      ETRSMD15
+
+     ETRMD15ONRQ         ETRMD15OF      ETRMD15ON
+
+     ETRNMD0             ETRMD0
+
+     ETRNMD01I           ETRNMD0
+
+     ETRNMD15            ETRMD15
+
+     ETRNMD151I          ETRNMD15
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 24
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     ETRREL              24CAB-RES      25CCAB-SP      ETRREL
+
+     ETRRELOFRQ          ETRREL
+
+     ETRRELONRQ          ETRREL
+
+     ETRSMD0             ETRMD0         ETRSMD01O      ETRSMD15
+
+     ETRSMD15            ETRMD15        ETRSMD151O
+
+     LINK-S2OK           4NASR          6NAFRE         6NAFYE         6NAGE          6NAHGR
+                         6NASR          6NAYE          6SAFRE         6SASR          6SAYE
+                         24CS           24REL          24TP           25CCS          25CTP
+                         742LNK1OKS2O   742LNKS2OK1O   LINKS          ME-LNKS2OK1O   MR-LNK1OK
+                         NCHICHOOFS2O   NT_TSR_1O      ST_TSRS2O      XFR_TST_S2O
+
+     LINK1OK             6NAHGR1O       14NOTP         14SSR          14T15          14T25
+                         14T35          14TP           24NREL         24NRELS        24NSR1O
+                         24NT0          24NT15         24NT25         24NT35         24NT45
+                         24NWZ          24PRC          24REL1O        24SSR          24ST01O
+                         24ST151O       24ST251O       24ST351O       24ST451O       24WZ1O
+                         25CNSR1O       25CTP1O        25CTURNBCK1O   742LNK1OKS2O   742LNKS2OK1O
+                         ETRNMD0        ETRNMD15       ETRREL         ETRSMD01O      ETRSMD151O
+                         LINKS          ME-LNKS2OK1O   MR-LNK1OK1O    NT_TSR_1O      WTRNMD0
+                         WTRNMD15       WTRREL         WTRSMD01O      WTRSMD151O
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 25
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+     LINK2OK             NNWP           ST_TSRS2O
+
+     MR-LINK1OK2I        MR-LNK1OK
+
+     MR-LNK1OK           24REL          MR-LNK1OK1O
+
+     NCHI_CHO_OFF        NCHICHOOFS2O
+
+     NNWP                24CAB-15       24CAB-25       24CAB-35       24CAB-40
+
+     NNWP_2I             NNWP
+
+     NT_TSRS2I           NT_TSR_1O
+
+     SLOT1OK             MODULE-HLTH
+
+     ST_TSR_2I           ST_TSRS2O
+
+     WTRMD0              24CAB-15       24CAB-25       24CAB-35       24CAB-40       24CAB-RES
+                         WTRREL
+
+     WTRMD0OF            WTRMD0OF       WTRMD0ON       WTRSMD0
+
+     WTRMD0OFRQ          WTRMD0OF       WTRMD0ON
+
+     WTRMD0ON            WTRMD0OF       WTRMD0ON       WTRSMD0
+
+     WTRMD0ONRQ          WTRMD0OF       WTRMD0ON
+
+     WTRMD15             24CAB-25       24CAB-35       24CAB-40       25CCAB-25
+
+     WTRMD15OF           WTRMD15OF      WTRMD15ON      WTRSMD15
+
+     WTRMD15OFRQ         WTRMD15OF      WTRMD15ON
+
+     WTRMD15ON           WTRMD15OF      WTRMD15ON      WTRSMD15
+
+     WTRMD15ONRQ         WTRMD15OF      WTRMD15ON
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 26
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+     Status Name         Equations Referenced By:
+     ------------        ------------------------
+     WTRNMD0             WTRMD0
+
+     WTRNMD01I           WTRNMD0
+
+     WTRNMD15            WTRMD15
+
+     WTRNMD151I          WTRNMD15
+
+     WTRREL              24CAB-RES      WTRREL
+
+     WTRRELOFRQ          WTRREL
+
+     WTRRELONRQ          WTRREL
+
+     WTRSMD0             WTRMD0         WTRSMD01O      WTRSMD15
+
+     WTRSMD15            WTRMD15        WTRSMD151O
+
+     XFR_TST             XFR_TST_S2O
+
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,   V-Validation CRC 38161FCF,  V-2 CRC 6CB0FCBE  Compressed   Page: 27
+     S1 EPROM, V-EPT CRC 437B, V-EPT CHECKSUM 5A37
+
+
+
+          Pinout Report
+          -------------
+
+     Module: CAB-16S, IO Slot 1
+     IO Name                        Status       Pin-out Description
+     -------                        ------       -------------------
+     Cab Output 1                   25CCE        J3-1  CAB1
+     Cab Output 2                   24CE         J3-3  CAB2
+     Cab Output 3                                J3-5  CAB3
+     Cab Output 4                                J3-7  CAB4
+     Cab Output 5                                J3-9  CAB5
+     Cab Output 6                                J3-11  CAB6
+     Cab Output 7                                J3-13  CAB7
+     Cab Output 8                                J3-15  CAB8
+     Cab Output 9                                J4-1  CAB9
+     Cab Output 10                               J4-3  CAB10
+     Cab Output 11                               J4-5  CAB11
+     Cab Output 12                               J4-7  CAB12
+     Cab Output 13                               J4-9  CAB13
+     Cab Output 14                               J4-11  CAB14
+     Cab Output 15                               J4-13  CAB15
+     Cab Output 16                               J4-15  CAB16
+

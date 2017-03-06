@@ -1,0 +1,32 @@
+ACE Version 5.8.16.526
+
+Multi-app filename:
+c:\~dcta\742.48_el - cp mill\742.48_el.ms1 (c:\~dcta\742.48_el - cp mill\742.48_el.mb1)
+
+EPT Header:  IWP multi-application EPROM 742.48_EL created 03/03/17 by ACE Version 5.8.16.526
+
+Checksum:  B7BA (hex)
+EPT CRC:   0F99 (hex)
+
+EPROM (Flash) device size needed:  1 MBit (128 Kbytes)
+Percent of device used:  20%
+Bytes available:  103662
+
+
+Number of applications:  2 
+
+Seq                     Chksum/EPTCRC  Size
+Num   Application Name  (hexadecimal)  (bytes)  EPT Header
+----  ----------------  -------------  -------  -----------------------------------------
+  1.  742.48_elv        5A37 / 437B      19510  ACE Editor: <5.8.16.526> IXS Compiler <1.12.422>
+                                                Railroad: <DCTA> Subdivision: <> Address:
+                                                <CP MILL REMOTE M.P. 742.58> Chassis ID:
+                                                <236> Location Number: <236> Flash Rate
+                                                (flash/per sec): <60> Date <03/03/2017> 
+
+  2.  742.48_elnv       334C / F8BD       6774  ACE Editor: <5.8.16.526> IXS Compiler <1.12.422>
+                                                Railroad: <DCTA> Subdivision: <> Address:
+                                                <CP MILL REMOTE M.P. 742.58> Chassis ID:
+                                                <236> Location Number: <236> Flash Rate
+                                                (flash/per sec): <60> Date <03/03/2017> 
+

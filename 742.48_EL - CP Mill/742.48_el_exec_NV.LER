@@ -1,0 +1,562 @@
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 1
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+
+     Equation: 7424T35K
+
+         24T0   24T15  24T25  24T35  7424T35K
+     ---+-] [--+-] [--+-] [--+-]/[--+------(R)
+
+
+     End of equation :7424T35K
+
+
+     Equation: 7424T15K
+
+         24T0   24T15  7424T15K
+     ---+-] [--+-]/[--+------(R)
+
+
+     End of equation :7424T15K
+
+
+     Equation: 7424T0K
+
+         24T0   7424T0K
+     ---+-]/[--+-----(R)
+
+
+     End of equation :7424T0K
+
+
+     Equation: DLVY1TE
+
+           DLV              DLVY1TE
+     ---+--] [-------------+-----(T)
+        |                  |
+        |DLVY1TE  DLVY1TEN |
+        +--]/[---+---] [---+
+
+
+     End of equation :DLVY1TE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 2
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: DLVY
+
+         DLVY1TEN  DLVY
+     ---+---] [---+---(R)
+
+
+     End of equation :DLVY
+
+
+     Equation: 24T35ONRQ
+
+         7424T35ONZ  7424T35OFFZ  DLVY   24T35ONRQ
+     ---+----] [----+----]/[-----+-] [--+-------(R)
+
+
+     End of equation :24T35ONRQ
+
+
+     Equation: 24T35OFRQ
+
+         7424T35ONZ  7424T35OFFZ  DLVY   24T35OFRQ
+     ---+----]/[----+----] [-----+-] [--+-------(R)
+
+
+     End of equation :24T35OFRQ
+
+
+     Equation: 24T15ONRQ
+
+         7424T15ONZ  7424T15OFFZ  DLVY   24T15ONRQ
+     ---+----] [----+----]/[-----+-] [--+-------(R)
+
+
+     End of equation :24T15ONRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 3
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: 24T15OFRQ
+
+         7424T15ONZ  7424T15OFFZ  DLVY   24T15OFRQ
+     ---+----]/[----+----] [-----+-] [--+-------(R)
+
+
+     End of equation :24T15OFRQ
+
+
+     Equation: 24T0ONRQ
+
+         7424T0ONZ  7424T0OFFZ  DLVY   24T0ONRQ
+     ---+---] [----+----]/[----+-] [--+------(R)
+
+
+     End of equation :24T0ONRQ
+
+
+     Equation: 24T0OFRQ
+
+         7424T0ONZ  7424T0OFFZ  DLVY   24T0OFRQ
+     ---+---]/[----+----] [----+-] [--+------(R)
+
+
+     End of equation :24T0OFRQ
+
+
+     Equation: 24T25OFRQ
+
+         7424T25ONZ  7424T25OFFZ  DLVY   24T25OFRQ
+     ---+----]/[----+----] [-----+-] [--+-------(R)
+
+
+     End of equation :24T25OFRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 4
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: 24T25ONRQ
+
+         7424T25ONZ  7424T25OFFZ  DLVY   24T25ONRQ
+     ---+----] [----+----]/[-----+-] [--+-------(R)
+
+
+     End of equation :24T25ONRQ
+
+
+     Equation: 24T45OFRQ
+
+         7424T45ONZ  7424T45OFFZ  DLVY   24T45OFRQ
+     ---+----]/[----+----] [-----+-] [--+-------(R)
+
+
+     End of equation :24T45OFRQ
+
+
+     Equation: 24T45ONRQ
+
+         7424T45ONZ  7424T45OFFZ  DLVY   24T45ONRQ
+     ---+----] [----+----]/[-----+-] [--+-------(R)
+
+
+     End of equation :24T45ONRQ
+
+
+     Equation: ETRMD0OFRQ
+
+         ETR-MD0ONZ  ETR-MD0OFFZ  DLVY   ETRMD0OFRQ
+     ---+----]/[----+----] [-----+-] [--+--------(R)
+
+
+     End of equation :ETRMD0OFRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 5
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: ETRMD0ONRQ
+
+         ETR-MD0ONZ  ETR-MD0OFFZ  DLVY   ETRMD0ONRQ
+     ---+----] [----+----]/[-----+-] [--+--------(R)
+
+
+     End of equation :ETRMD0ONRQ
+
+
+     Equation: ETRMD15OFRQ
+
+         ETR-MD15ONZ  ETR-MD15OFFZ  DLVY   ETRMD15OFRQ
+     ---+----]/[-----+-----] [-----+-] [--+---------(R)
+
+
+     End of equation :ETRMD15OFRQ
+
+
+     Equation: ETRMD15ONRQ
+
+         ETR-MD15ONZ  ETR-MD15OFFZ  DLVY   ETRMD15ONRQ
+     ---+----] [-----+-----]/[-----+-] [--+---------(R)
+
+
+     End of equation :ETRMD15ONRQ
+
+
+     Equation: 24WZOFRQ
+
+         7424WZONZ  7424WZOFFZ  DLVY   24WZOFRQ
+     ---+---]/[----+----] [----+-] [--+------(R)
+
+
+     End of equation :24WZOFRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 6
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: 24WZONRQ
+
+         7424WZONZ  7424WZOFFZ  DLVY   24WZONRQ
+     ---+---] [----+----]/[----+-] [--+------(R)
+
+
+     End of equation :24WZONRQ
+
+
+     Equation: 24RELOFRQ
+
+         7424RELONZ  7424RELOFFZ  DLVY   24RELOFRQ
+     ---+----]/[----+----] [-----+-] [--+-------(R)
+
+
+     End of equation :24RELOFRQ
+
+
+     Equation: 24RELONRQ
+
+         7424RELONZ  7424RELOFFZ  DLVY   24RELONRQ
+     ---+----] [----+----]/[-----+-] [--+-------(R)
+
+
+     End of equation :24RELONRQ
+
+
+     Equation: WTRMD15ONRQ
+
+         WTR-MD15ONZ  WTR-MD15OFFZ  DLVY   WTRMD15ONRQ
+     ---+----] [-----+-----]/[-----+-] [--+---------(R)
+
+
+     End of equation :WTRMD15ONRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 7
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: WTRMD15OFRQ
+
+         WTR-MD15ONZ  WTR-MD15OFFZ  DLVY   WTRMD15OFRQ
+     ---+----]/[-----+-----] [-----+-] [--+---------(R)
+
+
+     End of equation :WTRMD15OFRQ
+
+
+     Equation: WTRMD0ONRQ
+
+         WTR-MD0ONZ  WTR-MD0OFFZ  DLVY   WTRMD0ONRQ
+     ---+----] [----+----]/[-----+-] [--+--------(R)
+
+
+     End of equation :WTRMD0ONRQ
+
+
+     Equation: WTRMD0OFRQ
+
+         WTR-MD0ONZ  WTR-MD0OFFZ  DLVY   WTRMD0OFRQ
+     ---+----]/[----+----] [-----+-] [--+--------(R)
+
+
+     End of equation :WTRMD0OFRQ
+
+
+     Equation: ETRRELONRQ
+
+         ETR-RELONZ  ETR-RELOFFZ  DLVY   ETRRELONRQ
+     ---+----] [----+----]/[-----+-] [--+--------(R)
+
+
+     End of equation :ETRRELONRQ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 8
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: ETRRELOFRQ
+
+         ETR-RELOFFZ  ETR-RELONZ  DLVY   ETRRELOFRQ
+     ---+----] [-----+----]/[----+-] [--+--------(R)
+
+
+     End of equation :ETRRELOFRQ
+
+
+     Equation: WTRRELONRQ
+
+         WTR-RELONZ  WTR-RELOFFZ  DLVY   WTRRELONRQ
+     ---+----] [----+----]/[-----+-] [--+--------(R)
+
+
+     End of equation :WTRRELONRQ
+
+
+     Equation: WTRRELOFRQ
+
+         WTR-RELOFFZ  WTR-RELONZ  DLVY   WTRRELOFRQ
+     ---+----] [-----+----]/[----+-] [--+--------(R)
+
+
+     End of equation :WTRRELOFRQ
+
+
+     Equation: OFFICENONK
+
+         OFFICENONZ  OFFICEBONZ  DLVY   OFFICENONK
+     ---+----] [----+----]/[----+-] [--+--------(R)
+        |                              |
+        |OFFICENONK  OFFICEBONK        |
+        +----] [----+----]/[-----------+
+
+
+     End of equation :OFFICENONK
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 9
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: OFFICEBONK
+
+         OFFICEBONZ  OFFICENONZ  DLVY   OFFICEBONK
+     ---+----] [----+----]/[----+-] [--+--------(R)
+        |                              |
+        |OFFICEBONK  OFFICENONK        |
+        +----] [----+----]/[-----------+
+
+
+     End of equation :OFFICEBONK
+
+
+     Equation: 7424RELK
+
+         24REL  7424RELK
+     ---+-] [--+------(R)
+
+
+     End of equation :7424RELK
+
+
+     Equation: ETR-RELK
+
+         ETRREL  24TP   ETR-RELK
+     ---+--] [--+-] [--+------(R)
+
+
+     End of equation :ETR-RELK
+
+
+     Equation: WTR-RELK
+
+         WTRREL  24TP   WTR-RELK
+     ---+--] [--+-] [--+------(R)
+
+
+     End of equation :WTR-RELK
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 10
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: MOD-HLTH-TE
+
+         MODULE-HLTH  MOD-HLTH-TE
+     ---+----]/[-----+---------(T)
+
+
+     End of equation :MOD-HLTH-TE
+
+
+     Equation: FAULTK
+
+         MOD-HLTH-TE  FAULTK
+     ---+----] [-----+----(R)
+        |            |
+        |   LINKS    |
+        +----]/[-----|
+        |            |
+        | LINKFAIL   |
+        +----]/[-----|
+
+
+     End of equation :FAULTK
+
+
+     Equation: 7424T25K
+
+         24T0   24T15  24T25  7424T25K
+     ---+-] [--+-] [--+-]/[--+------(R)
+
+
+     End of equation :7424T25K
+
+
+     Equation: 7424T45K
+
+         24T0   24T15  24T25  24T35  24T45  7424T45K
+     ---+-] [--+-] [--+-] [--+-] [--+-]/[--+------(R)
+
+
+     End of equation :7424T45K
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 11
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: ETR-MD0K
+
+         ETRMD0  ETR-MD0K
+     ---+--]/[--+------(R)
+
+
+     End of equation :ETR-MD0K
+
+
+     Equation: ETR-MD15K
+
+         ETRMD0  ETRMD15  ETR-MD15K
+     ---+--] [--+--]/[---+-------(R)
+
+
+     End of equation :ETR-MD15K
+
+
+     Equation: 7424WZK
+
+         24WZ   7424WZK
+     ---+-]/[--+-----(R)
+
+
+     End of equation :7424WZK
+
+
+     Equation: 7424LK
+
+          24L   7424LK
+     ---+-] [--+----(R)
+
+
+     End of equation :7424LK
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 12
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation: WTR-MD15K
+
+         WTRMD0  WTRMD15  WTR-MD15K
+     ---+--] [--+--]/[---+-------(R)
+
+
+     End of equation :WTR-MD15K
+
+
+     Equation: WTR-MD0K
+
+         WTRMD0  WTR-MD0K
+     ---+--]/[--+------(R)
+
+
+     End of equation :WTR-MD0K
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 13
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     					EQUATION INDEX
+     Equation            Page
+
+     24RELOFRQ              6
+     24RELONRQ              6
+     24T0OFRQ               3
+     24T0ONRQ               3
+     24T15OFRQ              3
+     24T15ONRQ              2
+     24T25OFRQ              3
+     24T25ONRQ              4
+     24T35OFRQ              2
+     24T35ONRQ              2
+     24T45OFRQ              4
+     24T45ONRQ              4
+     24WZOFRQ               5
+     24WZONRQ               6
+     7424LK                11
+     7424RELK               9
+     7424T0K                1
+     7424T15K               1
+     7424T25K              10
+     7424T35K               1
+     7424T45K              10
+     7424WZK               11
+     DLVY                   2
+     DLVY1TE                1
+     ETR-MD0K              11
+     ETR-MD15K             11
+     ETR-RELK               9
+     ETRMD0OFRQ             4
+     ETRMD0ONRQ             5
+     ETRMD15OFRQ            5
+     ETRMD15ONRQ            5
+     ETRRELOFRQ             8
+     ETRRELONRQ             7
+     FAULTK                10
+     MOD-HLTH-TE           10
+     OFFICEBONK             9
+     OFFICENONK             8
+     WTR-MD0K              12
+     WTR-MD15K             12
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017, Validation CRC: 30CA70E6  V-2 CRC: 69355EB6      Page: 14
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     WTR-RELK               9
+     WTRMD0OFRQ             7
+     WTRMD0ONRQ             7
+     WTRMD15OFRQ            7
+     WTRMD15ONRQ            6
+     WTRRELOFRQ             8
+     WTRRELONRQ             8

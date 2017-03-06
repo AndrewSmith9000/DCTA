@@ -1,0 +1,155 @@
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 38161FCF,  V2-CRC 6CB0FCBE      Page: 1
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation    1:         25CTP
+     Equation    2:          24TP
+     Equation    3:         24NT0
+     Equation    4:      WTRNMD15
+     Equation    5:        25CNSR
+     Equation    6:         24SSR
+     Equation    7:         24NSR
+     Equation    8:        24NREL
+     Equation    9:          14TP
+     Equation   10:       24T15OF
+     Equation   11:        24T0OF
+     Equation   12:         24ST0
+     Equation   13:        24NT15
+     Equation   14:          NNWP
+     Equation   15:        24ST15
+     Equation   16:        24WZOF
+     Equation   17:         24T15
+     Equation   18:         6SASR
+     Equation   19:          24T0
+     Equation   20:       WTRNMD0
+     Equation   21:       WTRMD15
+     Equation   22:     24-51S-TE
+     Equation   23:     24-50S-TE
+     Equation   24:           24L
+     Equation   25:       24T25OF
+     Equation   26:       24T25ON
+     Equation   27:       24T45OF
+     Equation   28:       24T45ON
+     Equation   29:        24NT25
+     Equation   30:        24NT45
+     Equation   31:        24ST25
+     Equation   32:        24T0ON
+     Equation   33:         24PRC
+     Equation   34:         24T25
+     Equation   35:         24NWZ
+     Equation   36:      ETRMD0OF
+     Equation   37:      ETRMD0ON
+     Equation   38:     ETRMD15OF
+     Equation   39:     ETRMD15ON
+     Equation   40:        25CSSR
+     Equation   41:       ETRSMD0
+     Equation   42:       ETRNMD0
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 38161FCF,  V2-CRC 6CB0FCBE      Page: 2
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+
+     Equation   43:      ETRNMD15
+     Equation   44:      ETRSMD15
+     Equation   45:       ETRMD15
+     Equation   46:         25CCS
+     Equation   47:        ETRMD0
+     Equation   48:        24WZON
+     Equation   49:          24WZ
+     Equation   50:         24REL
+     Equation   51:         14T15
+     Equation   52:     24-48S-TE
+     Equation   53:        6NAFRE
+     Equation   54:        6NAFYE
+     Equation   55:         6NAGE
+     Equation   56:         6NAYE
+     Equation   57:        6SAFRE
+     Equation   58:         6SAYE
+     Equation   59:         6SRGP
+     Equation   60:     24-37S-TE
+     Equation   61:         14T35
+     Equation   62:       24T35ON
+     Equation   63:         14T25
+     Equation   64:     WTRMD15ON
+     Equation   65:     WTRMD15OF
+     Equation   66:      WTRMD0ON
+     Equation   67:      WTRMD0OF
+     Equation   68:       WTRSMD0
+     Equation   69:          24CS
+     Equation   70:        WTRMD0
+     Equation   71:       24T35OF
+     Equation   72:         14SSR
+     Equation   73:        WTRREL
+     Equation   74:        6NAHGR
+     Equation   75:     25CCAB-25
+     Equation   76:      24CAB-40
+     Equation   77:      24CAB-35
+     Equation   78:     25CCAB-15
+     Equation   79:     25CCAB-SP
+     Equation   80:    25CCAB-EOB
+     Equation   81:      24CAB-25
+     Equation   82:      24CAB-15
+     Equation   83:   MODULE-HLTH
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 38161FCF,  V2-CRC 6CB0FCBE      Page: 3
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+
+     Equation   84:       24ST01O
+     Equation   85:       24NSR1O
+     Equation   86:        24NT35
+     Equation   87:     24CAB-EOB
+     Equation   88:      24ST251O
+     Equation   89:         LINKS
+     Equation   90:      24ST151O
+     Equation   91:        24ST35
+     Equation   92:      24ST351O
+     Equation   93:     ETRSMD01O
+     Equation   94:    ETRSMD151O
+     Equation   95:       24REL1O
+     Equation   96:        24WZ1O
+     Equation   97:        24ST45
+     Equation   98:       24T15ON
+     Equation   99:      WTRSMD15
+     Equation  100:    WTRSMD151O
+     Equation  101:     WTRSMD01O
+     Equation  102:      25CNSR1O
+     Equation  103:   25CTURNBACK
+     Equation  104:  742LNK1OKS2O
+     Equation  105:  742LNKS2OK1O
+     Equation  106:      24ST451O
+     Equation  107:         6NASR
+     Equation  108:         24T35
+     Equation  109:         4NASR
+     Equation  110:        14NOTP
+     Equation  111:        ETRREL
+     Equation  112:     ST_TSRS2O
+     Equation  113:     NT_TSR_1O
+     Equation  114:  25CTURNBCK1O
+     Equation  115:         24T45
+     Equation  116:         25CCE
+     Equation  117:       25CTP1O
+     Equation  118:     24CAB-RES
+     Equation  119:          24CE
+     Equation  120:  NCHICHOOFS2O
+     Equation  121:   XFR_TST_S2O
+     Equation  122:      6NAHGR1O
+     Equation  123:    24TURNBACK
+     Equation  124:        6SAHGR
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 38161FCF,  V2-CRC 6CB0FCBE      Page: 4
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+
+     Equation  125:       24NRELS
+     Equation  126:   MR-LNK1OK1O
+     Equation  127:     MR-LNK1OK
+     Equation  128:  ME-LNKS2OK1O

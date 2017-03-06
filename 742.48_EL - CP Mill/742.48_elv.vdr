@@ -1,0 +1,63 @@
+                  APPLICATION LOGIC VALIDATOR-REPORT FILE
+
+Date:  March 03, 2017
+ 
+Validator Version: 
+   Validator.exe version 5.8 Build: 601
+   EC5val32.dll version 3.17 Build: 502
+   Vhlcval32.dll version 3.13 Build: 502
+   NonVitalVal32.dll version 1.11 Build: 502
+   VPM3Val32.dll version 1.13 Build: 526
+ 
+EPROM File:
+   C:\~DCTA\742.48_EL - CP Mill\742.48_elv.b1
+   EPT CRC = 437B,  Checksum = 5A37
+ 
+EPROM header:
+   ACE Editor: <5.8.16.526> IXS Compiler <1.12.422> Railroad: <DCTA> Subd
+   ivision: <> Address: <CP MILL REMOTE M.P. 742.58> Chassis ID: <236> Lo
+   cation Number: <236> Flash Rate (flash/per sec): <60> Date <03/03/2017
+   > 
+ 
+Compiled in Compressed format
+ 
+Number of Equations: 128
+ 
+ 
+Validation CRC: 38161FCF
+ 
+ 
+Validation V2-CRC: 6CB0FCBE
+ 
+ 
+Validation CRC from .LOG file:________________________
+ 
+ 
+V2-CRC from .LOG file:________________________
+ 
+ 
+Compile Date and Time from .LOG file:_______________________
+ 
+ 
+Are the Validation CRC's equal? (circle one) yes no
+ 
+ 
+Are the V2-CRC's equal? (circle one) yes no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  APPLICATION LOGIC VALIDATOR-REPORT FILE
+
+Date:  March 03, 2017
+Signature____________________________   Date_________________________

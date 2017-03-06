@@ -1,0 +1,59 @@
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 30CA70E6,   V2-CRC 69355EB6      Page: 1
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+     Equation    1:      7424T35K
+     Equation    2:      7424T15K
+     Equation    3:       7424T0K
+     Equation    4:       DLVY1TE
+     Equation    5:          DLVY
+     Equation    6:     24T35ONRQ
+     Equation    7:     24T35OFRQ
+     Equation    8:     24T15ONRQ
+     Equation    9:     24T15OFRQ
+     Equation   10:      24T0ONRQ
+     Equation   11:      24T0OFRQ
+     Equation   12:     24T25OFRQ
+     Equation   13:     24T25ONRQ
+     Equation   14:     24T45OFRQ
+     Equation   15:     24T45ONRQ
+     Equation   16:    ETRMD0OFRQ
+     Equation   17:    ETRMD0ONRQ
+     Equation   18:   ETRMD15OFRQ
+     Equation   19:   ETRMD15ONRQ
+     Equation   20:      24WZOFRQ
+     Equation   21:      24WZONRQ
+     Equation   22:     24RELOFRQ
+     Equation   23:     24RELONRQ
+     Equation   24:   WTRMD15ONRQ
+     Equation   25:   WTRMD15OFRQ
+     Equation   26:    WTRMD0ONRQ
+     Equation   27:    WTRMD0OFRQ
+     Equation   28:    ETRRELONRQ
+     Equation   29:    ETRRELOFRQ
+     Equation   30:    WTRRELONRQ
+     Equation   31:    WTRRELOFRQ
+     Equation   32:    OFFICENONK
+     Equation   33:    OFFICEBONK
+     Equation   34:      7424RELK
+     Equation   35:      ETR-RELK
+     Equation   36:      WTR-RELK
+     Equation   37:   MOD-HLTH-TE
+     Equation   38:        FAULTK
+     Equation   39:      7424T25K
+     Equation   40:      7424T45K
+     Equation   41:      ETR-MD0K
+     Equation   42:     ETR-MD15K
+                    Equation Execution Order Report
+     ACE Version: 5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,         Validation CRC 30CA70E6,   V2-CRC 69355EB6      Page: 2
+     S1 EPROM, EPT CRC F8BD, EPT CHECKSUM 334C
+
+
+     Equation   43:       7424WZK
+     Equation   44:        7424LK
+     Equation   45:     WTR-MD15K
+     Equation   46:      WTR-MD0K

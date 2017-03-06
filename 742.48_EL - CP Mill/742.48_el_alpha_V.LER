@@ -1,0 +1,1828 @@
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 1
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+
+     Equation: 4NASR
+
+         4NASRS2I  LINK-S2OK  4NASR
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :4NASR
+
+
+     Equation: 6NAFRE
+
+         6NAFRES2I  LINK-S2OK  6NAFRE
+     ---+---] [----+---] [----+----(R)
+
+
+     End of equation :6NAFRE
+
+
+     Equation: 6NAFYE
+
+         6NAFYES2I  LINK-S2OK  6NAFYE
+     ---+---] [----+---] [----+----(R)
+
+
+     End of equation :6NAFYE
+
+
+     Equation: 6NAGE
+
+         6NAGES2I  LINK-S2OK  6NAGE
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :6NAGE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 2
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 6NAHGR
+
+         6NAHGRS2I  LINK-S2OK  6NAHGR
+     ---+---] [----+---] [----+----(R)
+
+
+     End of equation :6NAHGR
+
+
+     Equation: 6NAHGR1O
+
+         6NAHGR  LINK1OK  6NAHGR1O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :6NAHGR1O
+
+
+     Equation: 6NASR
+
+         6NASRS2I  LINK-S2OK  6NASR
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :6NASR
+
+
+     Equation: 6NAYE
+
+         6NAYES2I  LINK-S2OK  6NAYE
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :6NAYE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 3
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 6SAFRE
+
+         6SAFRES2I  LINK-S2OK  6SAFRE
+     ---+---] [----+---] [----+----(R)
+
+
+     End of equation :6SAFRE
+
+
+     Equation: 6SAHGR
+
+         6SAHGRS2I  6SAHGR
+     ---+---] [----+----(R)
+
+
+     End of equation :6SAHGR
+
+
+     Equation: 6SASR
+
+         6SASRS2I  LINK-S2OK  6SASR
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :6SASR
+
+
+     Equation: 6SAYE
+
+         6SAYES2I  LINK-S2OK  6SAYE
+     ---+---] [---+---] [----+---(R)
+
+
+     End of equation :6SAYE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 4
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 6SRGP
+
+         6SAYE  6SAFRE  6SRGP
+     ---+-]/[--+--]/[--+---(R)
+
+
+     End of equation :6SRGP
+
+
+     Equation: 14NOTP
+
+         14NOTP1I  LINK1OK  14NOTP
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :14NOTP
+
+
+     Equation: 14SSR
+
+         14SSR1I  LINK1OK  14SSR
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :14SSR
+
+
+     Equation: 14T15
+
+         14T151I  LINK1OK  14T15
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :14T15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 5
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 14T25
+
+         14T251I  LINK1OK  14T25
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :14T25
+
+
+     Equation: 14T35
+
+         14T351I  LINK1OK  14T35
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :14T35
+
+
+     Equation: 14TP
+
+         14TP1I  LINK1OK  14TP
+     ---+--] [--+--] [---+---(R)
+
+
+     End of equation :14TP
+
+
+     Equation: 24-37S-TE
+
+         24TP   24-37S-TE
+     ---+-]/[--+-------(T)
+
+
+     End of equation :24-37S-TE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 6
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24-48S-TE
+
+         24TP   24-48S-TE
+     ---+-]/[--+-------(T)
+
+
+     End of equation :24-48S-TE
+
+
+     Equation: 24-50S-TE
+
+         24TP   24-50S-TE
+     ---+-]/[--+-------(T)
+
+
+     End of equation :24-50S-TE
+
+
+     Equation: 24-51S-TE
+
+         24TP   24-51S-TE
+     ---+-]/[--+-------(T)
+
+
+     End of equation :24-51S-TE
+
+
+
+     Equation: 24CAB-15    Piece: 1
+
+         6SAYE              24-51S-TE  ETRMD0  WTRMD0   24NWZ   25CNSR
+     ---+--] [-------------+---]/[----+--] [--+--] [--+--] [---+--] [--  =>A1
+        |6SAFRE            |                          |24NRELS |
+        +--] [-------------+                          +--] [---|         =>B1
+        |6SRGP   24-50S-TE |
+        +--] [--+---]/[----|                                             =>C1
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 7
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24CAB-15    Piece: 2
+
+             24NSR  24T0   NNWP   24CAB-25  24CAB-35  24CAB-40  24CAB-15
+      =>A1  +-] [--+-] [--+-] [--+---]/[---+---]/[---+---]/[---+------(R)
+
+
+      =>B1
+
+
+      =>C1
+
+
+     End of equation :24CAB-15
+
+
+
+     Equation: 24CAB-25    Piece: 1
+
+         14T15  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0
+     ---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--  =>A1
+        |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |
+        +-] [--+--] [--+---]/[----|                  +---]/[----|         =>B1
+               |6SRGP  |
+               +--] [--+                                                  =>C1
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 8
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24CAB-25    Piece: 2
+
+              WTRMD15    24NWZ   25CNSR  24NSR  24T15  NNWP   24CAB-35  24CAB-40
+      =>A1  +---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+---]/[---+---]/[---  =>A2
+            |          |        |
+            |24-37S-TE |24NRELS |
+      =>B1  +---]/[----+--] [---|                                                  =>B2
+
+
+      =>C1                                                                         =>C2
+
+
+     Equation: 24CAB-25    Piece: 3
+
+             24CAB-25
+      =>A2  +------(R)
+
+
+      =>B2
+
+
+      =>C2
+
+
+     End of equation :24CAB-25
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 9
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24CAB-35    Piece: 1
+
+         14T25  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0
+     ---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--  =>A1
+        |      |                  |                  |          |
+        |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |
+        +-] [--+--] [--+---]/[----|                  +---]/[----|         =>B1
+               |       |
+               |6SRGP  |
+               +--] [--+                                                  =>C1
+
+
+     Equation: 24CAB-35    Piece: 2
+
+              WTRMD15    24NWZ   25CNSR  24NSR  24T25  NNWP   24CAB-40  24CAB-35
+      =>A1  +---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+---]/[---+------(R)
+            |          |        |
+            |24-37S-TE |24NRELS |
+      =>B1  +---]/[----+--] [---|
+
+
+      =>C1
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 10
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     End of equation :24CAB-35
+
+
+
+     Equation: 24CAB-40    Piece: 1
+
+         14T35  6SAYE              24-51S-TE  ETRMD0   ETRMD15   WTRMD0
+     ---+-] [--+--] [-------------+---]/[----+--] [--+---] [----+--] [--  =>A1
+        |14TP  |6SAFRE  24-50S-TE |                  |24-48S-TE |
+        +-] [--+--] [--+---]/[----|                  +---]/[----|         =>B1
+               |6SRGP  |
+               +--] [--+                                                  =>C1
+
+     Equation: 24CAB-40    Piece: 2
+
+              WTRMD15    24NWZ   25CNSR  24NSR  24T35  NNWP   24CAB-40
+      =>A1  +---] [----+--] [---+--] [--+-] [--+-] [--+-] [--+------(R)
+            |          |        |
+            |24-37S-TE |24NRELS |
+      =>B1  +---]/[----+--] [---|
+
+
+      =>C1
+
+
+     End of equation :24CAB-40
+
+
+
+     Equation: 24CAB-EOB    Piece: 1
+
+         25CNSR  24T0   24CAB-40  24CAB-35  24CAB-25  24CAB-15  24CAB-RES
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 11
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     ---+--] [--+-] [--+---]/[---+---]/[---+---]/[---+---]/[---+---]/[----  =>A1
+
+     Equation: 24CAB-EOB    Piece: 2
+
+             24CAB-EOB
+      =>A1  +-------(R)
+
+
+     End of equation :24CAB-EOB
+
+
+
+     Equation: 24CAB-RES    Piece: 1
+
+         6SAYE              ETRMD0  WTRMD0    24NWZ     25CNSR
+     ---+--] [-------------+--] [--+--] [--+----] [----+--] [--  =>A1
+        |6SAFRE            |ETRREL |WTRREL | 24NRELS   |
+        +--] [-------------+--] [--+--] [--+----] [----+         =>B1
+        |6SRGP   24-50S-TE |               |24TURNBACK |
+        +--] [--+---]/[----|               +----] [----+         =>C1
+
+     Equation: 24CAB-RES    Piece: 2
+
+               24NSR     24T0   24CAB-15  24CAB-25  24CAB-35  24CAB-40
+      =>A1  +----] [----+-] [--+---]/[---+---]/[---+---]/[---+---]/[---  =>A2
+            |           |
+            |24TURNBACK |
+      =>B1  +----] [----+                                                =>B2
+
+
+      =>C1                                                               =>C2
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 12
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24CAB-RES    Piece: 3
+
+             24CAB-RES
+      =>A2  +-------(R)
+
+
+      =>B2
+
+
+      =>C2
+
+
+     End of equation :24CAB-RES
+
+
+     Equation: 24CE
+
+         24CAB-EOB  24CS   24CE
+     ---+---] [----+-] [--+---(R)
+        |          |
+        |24CAB-RES |
+        +---] [----|
+        |          |
+        |24CAB-15  |
+        +---] [----|
+        |          |
+        |24CAB-25  |
+        +---] [----|
+        |          |
+        |24CAB-35  |
+        +---] [----|
+        |          |
+        |24CAB-40  |
+        +---] [----|
+
+
+     End of equation :24CE
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 13
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24CS
+
+         LINK-S2OK  24TP   24CS
+     ---+---] [----+-]/[--+---(R)
+                   |      |
+                   |24PRC |
+                   +-] [--|
+
+
+     End of equation :24CS
+
+
+     Equation: 24L
+
+         24NSR  24SSR   24L
+     ---+-] [--+-] [--+---(R)
+
+
+     End of equation :24L
+
+
+     Equation: 24NREL
+
+         24NREL1I  LINK1OK  24NREL
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :24NREL
+
+
+     Equation: 24NRELS
+
+         24NREL   24NWZ  14TP   LINK1OK  25CTP  24NRELS
+     ---+--] [---+-]/[--+-]/[--+--] [---+-] [--+-----(R)
+        |        |      |               |
+        |24NRELS |      |24TP           |
+        +--] [---|      +-]/[-----------+
+
+
+     End of equation :24NRELS
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 14
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24NSR
+
+         6NASR  24TP   24NSR
+     ---+-] [--+-] [--+---(R)
+               |      |
+               |24NSR |
+               +-] [--|
+
+
+     End of equation :24NSR
+
+
+     Equation: 24NSR1O
+
+         24NSR  LINK1OK  24NSR1O
+     ---+-] [--+--] [---+-----(R)
+
+
+     End of equation :24NSR1O
+
+
+     Equation: 24NT0
+
+         24NT01I  LINK1OK  24NT0
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :24NT0
+
+
+     Equation: 24NT15
+
+         24NT151I  LINK1OK  24NT15
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :24NT15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 15
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24NT25
+
+         24NT251I  LINK1OK  24NT25
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :24NT25
+
+
+     Equation: 24NT35
+
+         24NT351I  LINK1OK  24NT35
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :24NT35
+
+
+     Equation: 24NT45
+
+         24NT451I  LINK1OK  24NT45
+     ---+---] [---+--] [---+----(R)
+
+
+     End of equation :24NT45
+
+
+     Equation: 24NWZ
+
+         24NWZ1I  LINK1OK  24NWZ
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :24NWZ
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 16
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24PRC
+
+         24PRC1I  LINK1OK  24PRC
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :24PRC
+
+
+
+     Equation: 24REL    Piece: 1
+
+         24RELONRQ  24RELOFRQ  24WZ   25CTP  LINK-S2OK  MR-LNK1OK  24TP
+     ---+---] [----+---]/[----+-]/[--+-]/[--+---] [----+---] [----+-] [--  =>A1
+        |  24REL   |
+        +---] [----|                                                       =>B1
+
+     Equation: 24REL    Piece: 2
+
+             14NOTP  24SSR    25CNSR     24REL
+      =>A1  +--] [--+-] [--+----]/[-----+---(R)
+                           |            |
+                           |25CTURNBACK |
+      =>B1                 +----] [-----|
+
+
+     End of equation :24REL
+
+
+     Equation: 24REL1O
+
+         24REL  LINK1OK  24REL1O
+     ---+-] [--+--] [---+-----(R)
+
+
+     End of equation :24REL1O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 17
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24SSR
+
+         24SSR1I  LINK1OK  24TP   24SSR
+     ---+--] [---+--] [---+-] [--+---(R)
+                          |      |
+                          |24SSR |
+                          +-] [--|
+
+
+     End of equation :24SSR
+
+
+     Equation: 24ST0
+
+         24T0ON  24T0OF  24ST0
+     ---+--]/[--+--] [--+---(R)
+
+
+     End of equation :24ST0
+
+
+     Equation: 24ST01O
+
+         24ST0  LINK1OK  24ST01O
+     ---+-] [--+--] [---+-----(R)
+
+
+     End of equation :24ST01O
+
+
+     Equation: 24ST15
+
+         24T15ON  24T15OF  24ST0  24ST15
+     ---+--]/[---+--] [---+-] [--+----(R)
+
+
+     End of equation :24ST15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 18
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24ST25
+
+         24T25ON  24T25OF  24ST0  24ST15  24ST25
+     ---+--]/[---+--] [---+-] [--+--] [--+----(R)
+
+
+     End of equation :24ST25
+
+
+     Equation: 24ST35
+
+         24T35ON  24T35OF  24ST0  24ST15  24ST25  24ST35
+     ---+--]/[---+--] [---+-] [--+--] [--+--] [--+----(R)
+
+
+     End of equation :24ST35
+
+
+     Equation: 24ST45
+
+         24T45ON  24T45OF  24ST0  24ST15  24ST25  24ST35  24ST45
+     ---+--]/[---+--] [---+-] [--+--] [--+--] [--+--] [--+----(R)
+
+
+     End of equation :24ST45
+
+
+     Equation: 24ST151O
+
+         24ST15  LINK1OK  24ST151O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :24ST151O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 19
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24ST251O
+
+         24ST25  LINK1OK  24ST251O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :24ST251O
+
+
+     Equation: 24ST351O
+
+         24ST35  LINK1OK  24ST351O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :24ST351O
+
+
+     Equation: 24ST451O
+
+         24ST45  LINK1OK  24ST451O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :24ST451O
+
+
+     Equation: 24T0
+
+         24ST0  24NT0  24T0
+     ---+-] [--+-] [--+---(R)
+
+
+     End of equation :24T0
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 20
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24T0OF
+
+         24T0OFRQ  24T0ONRQ  24T0OF
+     ---+---] [---+---]/[---+----(R)
+        |                   |
+        | 24T0ON    24T0OF  |
+        +---]/[---+---] [---+
+
+
+     End of equation :24T0OF
+
+
+     Equation: 24T0ON
+
+         24T0ONRQ  24T0OFRQ   24L   24T0ON
+     ---+---] [---+---]/[---+-] [--+----(R)
+        |                   |
+        | 24T0OF    24T0ON  |
+        +---]/[---+---] [---+
+
+
+     End of equation :24T0ON
+
+
+     Equation: 24T15
+
+         24ST15  24NT15  24T15
+     ---+--] [--+--] [--+---(R)
+
+
+     End of equation :24T15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 21
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24T15OF
+
+         24T15OFRQ  24T15ONRQ  24T15OF
+     ---+---] [----+---]/[----+-----(R)
+        |                     |
+        | 24T15ON    24T15OF  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T15OF
+
+
+     Equation: 24T15ON
+
+         24T15ONRQ  24T15OFRQ   24L   24T15ON
+     ---+---] [----+---]/[----+-] [--+-----(R)
+        |                     |
+        | 24T15OF    24T15ON  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T15ON
+
+
+     Equation: 24T25
+
+         24ST25  24NT25  24T25
+     ---+--] [--+--] [--+---(R)
+
+
+     End of equation :24T25
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 22
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24T25OF
+
+         24T25OFRQ  24T25ONRQ  24T25OF
+     ---+---] [----+---]/[----+-----(R)
+        |                     |
+        | 24T25ON    24T25OF  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T25OF
+
+
+     Equation: 24T25ON
+
+         24T25ONRQ  24T25OFRQ   24L   24T25ON
+     ---+---] [----+---]/[----+-] [--+-----(R)
+        |                     |
+        | 24T25OF    24T25ON  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T25ON
+
+
+     Equation: 24T35
+
+         24ST35  24NT35  24T35
+     ---+--] [--+--] [--+---(R)
+
+
+     End of equation :24T35
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 23
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24T35OF
+
+         24T35OFRQ  24T35ONRQ  24T35OF
+     ---+---] [----+---]/[----+-----(R)
+        |                     |
+        | 24T35ON    24T35OF  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T35OF
+
+
+     Equation: 24T35ON
+
+         24T35ONRQ  24T35OFRQ   24L   24T35ON
+     ---+---] [----+---]/[----+-] [--+-----(R)
+        |                     |
+        | 24T35OF    24T35ON  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T35ON
+
+
+     Equation: 24T45
+
+         24ST45  24NT45  24T45
+     ---+--] [--+--] [--+---(R)
+
+
+     End of equation :24T45
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 24
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24T45OF
+
+         24T45OFRQ  24T45ONRQ  24T45OF
+     ---+---] [----+---]/[----+-----(R)
+        |                     |
+        | 24T45ON    24T45OF  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T45OF
+
+
+     Equation: 24T45ON
+
+         24T45ONRQ  24T45OFRQ   24L   24T45ON
+     ---+---] [----+---]/[----+-] [--+-----(R)
+        |                     |
+        | 24T45OF    24T45ON  |
+        +---]/[----+---] [----|
+
+
+     End of equation :24T45ON
+
+
+     Equation: 24TP
+
+         24TRS2I  LINK-S2OK  24TP
+     ---+--] [---+---] [----+---(R)
+
+
+     End of equation :24TP
+
+
+     Equation: 24TURNBACK
+
+         24NSR  6SAHGR  24-51S-TE  24TURNBACK
+     ---+-]/[--+--] [--+---] [----+--------(R)
+
+
+     End of equation :24TURNBACK
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 25
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 24WZ
+
+         24WZON  24WZOF  24WZ
+     ---+--]/[--+--] [--+---(R)
+
+
+     End of equation :24WZ
+
+
+     Equation: 24WZ1O
+
+         24WZ   LINK1OK  24WZ1O
+     ---+-] [--+--] [---+----(R)
+
+
+     End of equation :24WZ1O
+
+
+     Equation: 24WZOF
+
+         24WZONRQ  24WZOFRQ  24WZOF
+     ---+---]/[---+---] [---+----(R)
+        |                   |
+        | 24WZOF    24WZON  |
+        +---] [---+---]/[---+
+
+
+     End of equation :24WZOF
+
+
+     Equation: 24WZON
+
+         24WZONRQ  24WZOFRQ   24L   24WZON
+     ---+---] [---+---]/[---+-] [--+----(R)
+        |                   |
+        | 24WZOF    24WZON  |
+        +---]/[---+---] [---+
+
+
+     End of equation :24WZON
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 26
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 25CCAB-15
+
+         6NAGE   24T0   ETRMD0  24SSR  24WZ   25CCAB-25  25CCAB-15
+     ---+--] [--+-] [--+--] [--+-] [--+-] [--+---]/[----+-------(R)
+        |       |
+        |6NAFYE |
+        +--] [--+
+        |       |
+        |6NAYE  |
+        +--] [--+
+        |       |
+        |6NAFRE |
+        +--] [--+
+
+
+     End of equation :25CCAB-15
+
+
+     Equation: 25CCAB-25
+
+         6NAGE   24T15  ETRMD15  WTRMD15  24SSR  24WZ   25CCAB-25
+     ---+--] [--+-] [--+--] [---+--] [---+-] [--+-] [--+-------(R)
+        |       |
+        |6NAFYE |
+        +--] [--+
+        |       |
+        |6NAYE  |
+        +--] [--+
+
+
+     End of equation :25CCAB-25
+
+
+     Equation: 25CCAB-EOB
+
+         24SSR  25CCAB-25  25CCAB-15  25CCAB-SP  25CCAB-EOB
+     ---+-] [--+---]/[----+---]/[----+---]/[----+--------(R)
+
+
+     End of equation :25CCAB-EOB
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 27
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 25CCAB-SP
+
+         6NAGE   24T0   ETRMD0  24SSR  24WZ   25CCAB-25  25CCAB-15  25CCAB-SP
+     ---+--] [--+-] [--+--] [--+-] [--+-] [--+---]/[----+---]/[----+-------(R)
+        |       |      |       |      |      |
+        |6NAFYE |      |ETRREL |      |24REL |
+        +--] [--+      +--] [--+      +-] [--|
+        |       |
+        |6NAYE  |
+        +--] [--+
+        |       |
+        |6NAFRE |
+        +--] [--+
+
+
+     End of equation :25CCAB-SP
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 28
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 25CCE
+
+         25CCAB-EOB  25CCS  25CCE
+     ---+----] [----+-] [--+---(R)
+        |           |
+        |25CCAB-SP  |
+        +----] [----+
+        |           |
+        |25CCAB-15  |
+        +----] [----+
+        |           |
+        |25CCAB-25  |
+        +----] [----+
+
+
+     End of equation :25CCE
+
+
+     Equation: 25CCS
+
+         LINK-S2OK  25CTP  25CCS
+     ---+---] [----+-]/[--+---(R)
+
+
+     End of equation :25CCS
+
+
+     Equation: 25CNSR
+
+         4NASR  25CTP   25CNSR
+     ---+-] [--+--] [--+----(R)
+               |       |
+               |25CNSR |
+               +--] [--+
+
+
+     End of equation :25CNSR
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 29
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 25CNSR1O
+
+         25CNSR  LINK1OK  25CNSR1O
+     ---+--] [--+--] [---+------(R)
+
+
+     End of equation :25CNSR1O
+
+
+     Equation: 25CSSR
+
+         6SASR  25CTP   25CSSR
+     ---+-] [--+--] [--+----(R)
+               |       |
+               |25CSSR |
+               +--] [--+
+
+
+     End of equation :25CSSR
+
+
+     Equation: 25CTP
+
+         25CTPRS2I  LINK-S2OK  25CTP
+     ---+---] [----+---] [----+---(R)
+
+
+     End of equation :25CTP
+
+
+     Equation: 25CTP1O
+
+         25CTP  LINK1OK  25CTP1O
+     ---+-] [--+--] [---+-----(R)
+
+
+     End of equation :25CTP1O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 30
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: 25CTURNBACK
+
+         25CSSR  6NAHGR  25CTURNBACK
+     ---+--]/[--+--] [--+---------(R)
+
+
+     End of equation :25CTURNBACK
+
+
+     Equation: 25CTURNBCK1O
+
+         25CTURNBACK  LINK1OK  25CTURNBCK1O
+     ---+----] [-----+--] [---+----------(R)
+
+
+     End of equation :25CTURNBCK1O
+
+
+     Equation: 742LNK1OKS2O
+
+         LINK1OK  LINK-S2OK  742LNK1OKS2O
+     ---+--] [---+---] [----+----------(R)
+
+
+     End of equation :742LNK1OKS2O
+
+
+     Equation: 742LNKS2OK1O
+
+         LINK1OK  LINK-S2OK  742LNKS2OK1O
+     ---+--] [---+---] [----+----------(R)
+
+
+     End of equation :742LNKS2OK1O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 31
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: ETRMD0
+
+         ETRSMD0  ETRNMD0  ETRMD0
+     ---+--] [---+--] [---+----(R)
+
+
+     End of equation :ETRMD0
+
+
+     Equation: ETRMD0OF
+
+         ETRMD0OFRQ  ETRMD0ONRQ  ETRMD0OF
+     ---+----] [----+----]/[----+------(R)
+        |                       |
+        | ETRMD0ON    ETRMD0OF  |
+        +----]/[----+----] [----+
+
+
+     End of equation :ETRMD0OF
+
+
+     Equation: ETRMD0ON
+
+         ETRMD0ONRQ  ETRMD0OFRQ   24L   ETRMD0ON
+     ---+----] [----+----]/[----+-] [--+------(R)
+        |                       |
+        | ETRMD0OF    ETRMD0ON  |
+        +----]/[----+----] [----+
+
+
+     End of equation :ETRMD0ON
+
+
+     Equation: ETRMD15
+
+         ETRSMD15  ETRNMD15  ETRMD15
+     ---+---] [---+---] [---+-----(R)
+
+
+     End of equation :ETRMD15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 32
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: ETRMD15OF
+
+         ETRMD15OFRQ  ETRMD15ONRQ  ETRMD15OF
+     ---+----] [-----+----]/[-----+-------(R)
+        |                         |
+        | ETRMD15ON    ETRMD15OF  |
+        +----]/[-----+----] [-----|
+
+
+     End of equation :ETRMD15OF
+
+
+     Equation: ETRMD15ON
+
+         ETRMD15ONRQ  ETRMD15OFRQ   24L   ETRMD15ON
+     ---+----] [-----+----]/[-----+-] [--+-------(R)
+        |                         |
+        | ETRMD15OF    ETRMD15ON  |
+        +----]/[-----+----] [-----|
+
+
+     End of equation :ETRMD15ON
+
+
+     Equation: ETRNMD0
+
+         ETRNMD01I  LINK1OK  ETRNMD0
+     ---+---] [----+--] [---+-----(R)
+
+
+     End of equation :ETRNMD0
+
+
+     Equation: ETRNMD15
+
+         ETRNMD151I  LINK1OK  ETRNMD15
+     ---+----] [----+--] [---+------(R)
+
+
+     End of equation :ETRNMD15
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 33
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: ETRREL    Piece: 1
+
+         ETRRELONRQ  ETRRELOFRQ  ETRMD0  LINK1OK  24TP
+     ---+----] [----+----]/[----+--]/[--+--] [---+-]/[---------------  =>A1
+        |           |                            |
+        |  ETRREL   |                            |14TP      14SSR
+        +----] [----+                            +-]/[--+----]/[-----  =>B1
+                                                 |
+                                                 |25CTP    25CNSR
+                                                 +-]/[--+----]/[-----  =>C1
+                                                        |
+                                                        |25CTURNBACK
+                                                        +----] [-----  =>D1
+
+
+     Equation: ETRREL    Piece: 2
+
+             25CTP    24NSR            ETRREL
+      =>A1  +-] [--+----] [-----------+----(R)
+            |      |                  |
+            |      |24TURNBACK        |
+      =>B1  |      +----] [-----------+
+                                      |
+             24TP     14NOTP    24SSR |
+      =>C1  +-] [--+----] [----+-] [--|
+            |
+            |
+      =>D1  |
+
+
+     End of equation :ETRREL
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 34
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: ETRSMD0
+
+         ETRMD0ON  ETRMD0OF  ETRSMD0
+     ---+---]/[---+---] [---+-----(R)
+
+
+     End of equation :ETRSMD0
+
+
+     Equation: ETRSMD01O
+
+         ETRSMD0  LINK1OK  ETRSMD01O
+     ---+--] [---+--] [---+-------(R)
+
+
+     End of equation :ETRSMD01O
+
+
+     Equation: ETRSMD15
+
+         ETRMD15ON  ETRMD15OF  ETRSMD0  ETRSMD15
+     ---+---]/[----+---] [----+--] [---+------(R)
+
+
+     End of equation :ETRSMD15
+
+
+     Equation: ETRSMD151O
+
+         ETRSMD15  LINK1OK  ETRSMD151O
+     ---+---] [---+--] [---+--------(R)
+
+
+     End of equation :ETRSMD151O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 35
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: LINKS
+
+         LINK-S2OK  LINK1OK  LINKS
+     ---+---] [----+--] [---+---(R)
+
+
+     End of equation :LINKS
+
+
+     Equation: ME-LNKS2OK1O
+
+         LINK-S2OK  LINK1OK  ME-LNKS2OK1O
+     ---+---] [----+--] [---+----------(R)
+
+
+     End of equation :ME-LNKS2OK1O
+
+
+     Equation: MODULE-HLTH
+
+         SLOT1OK  MODULE-HLTH
+     ---+--] [---+---------(R)
+
+
+     End of equation :MODULE-HLTH
+
+
+     Equation: MR-LNK1OK
+
+         MR-LINK1OK2I  LINK-S2OK  MR-LNK1OK
+     ---+-----] [-----+---] [----+-------(R)
+
+
+     End of equation :MR-LNK1OK
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 36
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: MR-LNK1OK1O
+
+         MR-LNK1OK  LINK1OK  MR-LNK1OK1O
+     ---+---] [----+--] [---+---------(R)
+
+
+     End of equation :MR-LNK1OK1O
+
+
+     Equation: NCHICHOOFS2O
+
+         NCHI_CHO_OFF  LINK-S2OK  NCHICHOOFS2O
+     ---+-----] [-----+---] [----+----------(R)
+
+
+     End of equation :NCHICHOOFS2O
+
+
+     Equation: NNWP
+
+         NNWP_2I  LINK2OK  NNWP
+     ---+--] [---+--] [---+---(R)
+
+
+     End of equation :NNWP
+
+
+     Equation: NT_TSR_1O
+
+         NT_TSRS2I  LINK1OK  LINK-S2OK  NT_TSR_1O
+     ---+---] [----+--] [---+---] [----+-------(R)
+
+
+     End of equation :NT_TSR_1O
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 37
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: ST_TSRS2O
+
+         ST_TSR_2I  LINK2OK  LINK-S2OK  ST_TSRS2O
+     ---+---] [----+--] [---+---] [----+-------(R)
+
+
+     End of equation :ST_TSRS2O
+
+
+     Equation: WTRMD0
+
+         WTRSMD0  WTRNMD0  WTRMD0
+     ---+--] [---+--] [---+----(R)
+
+
+     End of equation :WTRMD0
+
+
+     Equation: WTRMD0OF
+
+         WTRMD0OFRQ  WTRMD0ONRQ  WTRMD0OF
+     ---+----] [----+----]/[----+------(R)
+        |                       |
+        | WTRMD0ON    WTRMD0OF  |
+        +----]/[----+----] [----+
+
+
+     End of equation :WTRMD0OF
+
+
+     Equation: WTRMD0ON
+
+         WTRMD0ONRQ  WTRMD0OFRQ   24L   WTRMD0ON
+     ---+----] [----+----]/[----+-] [--+------(R)
+        |                       |
+        | WTRMD0OF    WTRMD0ON  |
+        +----]/[----+----] [----+
+
+
+     End of equation :WTRMD0ON
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 38
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: WTRMD15
+
+         WTRSMD15  WTRNMD15  WTRMD15
+     ---+---] [---+---] [---+-----(R)
+
+
+     End of equation :WTRMD15
+
+
+     Equation: WTRMD15OF
+
+         WTRMD15OFRQ  WTRMD15ONRQ  WTRMD15OF
+     ---+----] [-----+----]/[-----+-------(R)
+        |                         |
+        | WTRMD15ON    WTRMD15OF  |
+        +----]/[-----+----] [-----|
+
+
+     End of equation :WTRMD15OF
+
+
+     Equation: WTRMD15ON
+
+         WTRMD15ONRQ  WTRMD15OFRQ   24L   WTRMD15ON
+     ---+----] [-----+----]/[-----+-] [--+-------(R)
+        |                         |
+        | WTRMD15OF    WTRMD15ON  |
+        +----]/[-----+----] [-----|
+
+
+     End of equation :WTRMD15ON
+
+
+     Equation: WTRNMD0
+
+         WTRNMD01I  LINK1OK  WTRNMD0
+     ---+---] [----+--] [---+-----(R)
+
+
+     End of equation :WTRNMD0
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 39
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: WTRNMD15
+
+         WTRNMD151I  LINK1OK  WTRNMD15
+     ---+----] [----+--] [---+------(R)
+
+
+     End of equation :WTRNMD15
+
+
+
+     Equation: WTRREL    Piece: 1
+
+         WTRRELONRQ  WTRRELOFRQ  WTRMD0  LINK1OK  24TP          25CTP
+     ---+----] [----+----]/[----+--]/[--+--] [---+-]/[---------+-] [--  =>A1
+        |  WTRREL   |                            |14TP   14SSR |
+        +----] [----+                            +-]/[--+-]/[--|        =>B1
+
+     Equation: WTRREL    Piece: 2
+
+               24NSR     WTRREL
+      =>A1  +----] [----+----(R)
+            |           |
+            |24TURNBACK |
+      =>B1  +----] [----+
+
+
+     End of equation :WTRREL
+
+
+     Equation: WTRSMD0
+
+         WTRMD0ON  WTRMD0OF  WTRSMD0
+     ---+---]/[---+---] [---+-----(R)
+
+
+     End of equation :WTRSMD0
+
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 40
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     Equation: WTRSMD01O
+
+         WTRSMD0  LINK1OK  WTRSMD01O
+     ---+--] [---+--] [---+-------(R)
+
+
+     End of equation :WTRSMD01O
+
+
+     Equation: WTRSMD15
+
+         WTRMD15ON  WTRMD15OF  WTRSMD0  WTRSMD15
+     ---+---]/[----+---] [----+--] [---+------(R)
+
+
+     End of equation :WTRSMD15
+
+
+     Equation: WTRSMD151O
+
+         WTRSMD15  LINK1OK  WTRSMD151O
+     ---+---] [---+--] [---+--------(R)
+
+
+     End of equation :WTRSMD151O
+
+
+     Equation: XFR_TST_S2O
+
+         XFR_TST  LINK-S2OK  XFR_TST_S2O
+     ---+--] [---+---] [----+---------(R)
+
+
+     End of equation :XFR_TST_S2O
+
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 41
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     					EQUATION INDEX
+     Equation            Page
+
+     4NASR                  1
+     6NAFRE                 1
+     6NAFYE                 1
+     6NAGE                  1
+     6NAHGR                 2
+     6NAHGR1O               2
+     6NASR                  2
+     6NAYE                  2
+     6SAFRE                 3
+     6SAHGR                 3
+     6SASR                  3
+     6SAYE                  3
+     6SRGP                  4
+     14NOTP                 4
+     14SSR                  4
+     14T15                  4
+     14T25                  5
+     14T35                  5
+     14TP                   5
+     24-37S-TE              5
+     24-48S-TE              6
+     24-50S-TE              6
+     24-51S-TE              6
+     24CAB-15               7
+     24CAB-25               8
+     24CAB-35              10
+     24CAB-40              10
+     24CAB-EOB             11
+     24CAB-RES             12
+     24CE                  12
+     24CS                  13
+     24L                   13
+     24NREL                13
+     24NRELS               13
+     24NSR                 14
+     24NSR1O               14
+     24NT0                 14
+     24NT15                14
+     24NT25                15
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 42
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     24NT35                15
+     24NT45                15
+     24NWZ                 15
+     24PRC                 16
+     24REL                 16
+     24REL1O               16
+     24SSR                 17
+     24ST0                 17
+     24ST01O               17
+     24ST15                17
+     24ST25                18
+     24ST35                18
+     24ST45                18
+     24ST151O              18
+     24ST251O              19
+     24ST351O              19
+     24ST451O              19
+     24T0                  19
+     24T0OF                20
+     24T0ON                20
+     24T15                 20
+     24T15OF               21
+     24T15ON               21
+     24T25                 21
+     24T25OF               22
+     24T25ON               22
+     24T35                 22
+     24T35OF               23
+     24T35ON               23
+     24T45                 23
+     24T45OF               24
+     24T45ON               24
+     24TP                  24
+     24TURNBACK            24
+     24WZ                  25
+     24WZ1O                25
+     24WZOF                25
+     24WZON                25
+     25CCAB-15             26
+     25CCAB-25             26
+     25CCAB-EOB            26
+     25CCAB-SP             27
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 43
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     25CCE                 28
+     25CCS                 28
+     25CNSR                28
+     25CNSR1O              29
+     25CSSR                29
+     25CTP                 29
+     25CTP1O               29
+     25CTURNBACK           30
+     25CTURNBCK1O          30
+     742LNK1OKS2O          30
+     742LNKS2OK1O          30
+     ETRMD0                31
+     ETRMD0OF              31
+     ETRMD0ON              31
+     ETRMD15               31
+     ETRMD15OF             32
+     ETRMD15ON             32
+     ETRNMD0               32
+     ETRNMD15              32
+     ETRREL                33
+     ETRSMD0               34
+     ETRSMD01O             34
+     ETRSMD15              34
+     ETRSMD151O            34
+     LINKS                 35
+     ME-LNKS2OK1O          35
+     MODULE-HLTH           35
+     MR-LNK1OK             35
+     MR-LNK1OK1O           36
+     NCHICHOOFS2O          36
+     NNWP                  36
+     NT_TSR_1O             36
+     ST_TSRS2O             37
+     WTRMD0                37
+     WTRMD0OF              37
+     WTRMD0ON              37
+     WTRMD15               38
+     WTRMD15OF             38
+     WTRMD15ON             38
+     WTRNMD0               38
+     WTRNMD15              39
+     WTRREL                39
+     			        Ladder Logic Equation Report
+     ACE Version:   5.8.16.526
+     c:\~dcta\742.48_el - cp mill\742.48_el.ccf
+     Date: 03 Mar, 2017,            Validation CRC: 38161FCF    V-2 CRC 6CB0FCBE    Page: 44
+     S1 EPROM, EPT CRC 437B, EPT CHECKSUM 5A37
+
+     WTRSMD0               39
+     WTRSMD01O             40
+     WTRSMD15              40
+     WTRSMD151O            40
+     XFR_TST_S2O           40

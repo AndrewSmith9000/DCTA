@@ -1,0 +1,81 @@
+                   APPLICATION LOGIC VALIDATOR - DIFFERENCE REPORT
+
+Date:  March 03, 2017
+ 
+Validator Version: 
+   Validator.exe version 5.8 Build: 601
+   EC5val32.dll version 3.17 Build: 502
+   Vhlcval32.dll version 3.13 Build: 502
+   NonVitalVal32.dll version 1.11 Build: 502
+   VPM3Val32.dll version 1.13 Build: 526
+ 
+Location Type: ELECTROLOGIXS
+ 
+EPROM File:
+   C:\~DCTA\742.48_EL - CP Mill\742.48_elv.b1
+   EPT CRC = 437B,  Checksum = 5A37
+ 
+EPROM header:
+   ACE Editor: <5.8.16.526> IXS Compiler <1.12.422> Railroad: <DCTA> Subd
+   ivision: <> Address: <CP MILL REMOTE M.P. 742.58> Chassis ID: <236> Lo
+   cation Number: <236> Flash Rate (flash/per sec): <60> Date <03/03/2017
+   > 
+ 
+Compiled in Compressed format
+ 
+{EPROM Cab Rates (ms)}
+
+Rate 1		Cab On Time 0		Cab Off Time 0
+Rate 2		Cab On Time 0		Cab Off Time 0
+Rate 3		Cab On Time 248		Cab Off Time 256
+Rate 4		Cab On Time 272		Cab Off Time 280
+Rate 5		Cab On Time 296		Cab Off Time 440
+Rate 6		Cab On Time 432		Cab Off Time 424
+Rate 7		Cab On Time 488		Cab Off Time 488
+Rate 8		Cab On Time 552		Cab Off Time 552
+Rate 9		Cab On Time 424		Cab Off Time 808
+Rate 10		Cab On Time 680		Cab Off Time 680
+Rate 11		Cab On Time 504		Cab Off Time 992
+Rate 12		Cab On Time 552		Cab Off Time 1080
+Rate 13		Cab On Time 600		Cab Off Time 1168
+Rate 14		Cab On Time 664		Cab Off Time 1248
+Rate 15		Cab On Time 1032		Cab Off Time 1024
+Rate 16		Cab On Time 0		Cab Off Time 0
+ 
+ 
+ 
+Execution Order Differences
+---------------------------
+No Execution Order Differences
+
+ 
+Equation Differences
+--------------------
+No equations differences
+ 
+Chassis Differences
+-------------------
+No chassis differences
+ 
+IHRD Settings Differences
+-------------------------
+Validator Difference Report                   Location: 742.48_elv
+Date:  March 03, 2017                         Page: 2
+
+No IHRD Settings differences
+ 
+Network Differences
+-------------------
+No Network Differences
+ 
+Module Slot Assignments Summary
+-------------------------------
+No module slot differences
+No module slot differences
+No module slot differences
+No module slot differences
+ 
+Status assignment/recorder/slow release/slow picked/load type differences
+-------------------------------------------------------------
+No status name, recorder , slow release, slow pick or load type differences
+END OF Difference Report for 742.48_elv

@@ -1,0 +1,462 @@
+                APPLICATION LOGIC VALIDATOR-EQUATION FILE
+
+Date:  March 03, 2017
+ 
+Validator Version: 
+   Validator.exe version 5.8 Build: 601
+   EC5val32.dll version 3.17 Build: 502
+   Vhlcval32.dll version 3.13 Build: 502
+   NonVitalVal32.dll version 1.11 Build: 502
+   VPM3Val32.dll version 1.13 Build: 526
+ 
+Location Type: ELECTROLOGIXS
+ 
+EPROM FILE(S):
+   C:\~DCTA\742.48_EL - CP Mill\742.48_elnv.b1
+   EPT CRC = F8BD, EPT Checksum = 334C
+ 
+EPROM Header:
+   ACE Editor: <5.8.16.526> IXS Compiler <1.12.422> Railroad: <DCTA> Subd
+   ivision: <> Address: <CP MILL REMOTE M.P. 742.58> Chassis ID: <236> Lo
+   cation Number: <236> Flash Rate (flash/per sec): <60> Date <03/03/2017
+   > 
+ 
+Number of Equations: 46
+ 
+Equation: 7424T35K,  from EPROM
+ 
+    24T0   24T15  24T25  24T35  7424T35K 
+---+-] [--+-] [--+-] [--+-]/[--+------(R)
+                                         
+Equation: [7424T35K]  Recorded: [ TRUE]
+ 
+End of equation 7424T35K from EPROM.
+ 
+Equation: 7424T15K,  from EPROM
+ 
+    24T0   24T15  7424T15K 
+---+-] [--+-]/[--+------(R)
+                           
+Equation: [7424T15K]  Recorded: [ TRUE]
+ 
+End of equation 7424T15K from EPROM.
+ 
+Equation: 7424T0K,  from EPROM
+ 
+    24T0   7424T0K 
+---+-]/[--+-----(R)
+                   
+Equation: [7424T0K]  Recorded: [ TRUE]
+ 
+End of equation 7424T0K from EPROM.
+ 
+Equation: DLVY1TE,  from EPROM
+ 
+      DLV              DLVY1TE 
+---+--] [-------------+-----(T)
+   |                  |        
+   |DLVY1TE  DLVY1TEN |        
+   +--]/[---+---] [---+        
+                               
+Timer Data:    Timer Complete: [     DLVY1TE]  Recorded: [FALSE]
+               Timer Enable:   [    DLVY1TEN]  Recorded: [FALSE]
+               Timer Default: 0 minutes, 2 seconds.
+               Timer Minimum: 0 minutes, 2 seconds.
+ 
+ 
+End of equation DLVY1TE from EPROM.
+ 
+Equation: DLVY,  from EPROM
+ 
+    DLVY1TEN  DLVY  
+---+---] [---+---(R)
+                    
+Equation: [DLVY]  Recorded: [FALSE]
+ 
+End of equation DLVY from EPROM.
+ 
+Equation: 24T35ONRQ,  from EPROM
+ 
+    7424T35ONZ  7424T35OFFZ  DLVY   24T35ONRQ 
+---+----] [----+----]/[-----+-] [--+-------(R)
+                                              
+Equation: [24T35ONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T35ONRQ from EPROM.
+ 
+Equation: 24T35OFRQ,  from EPROM
+ 
+    7424T35ONZ  7424T35OFFZ  DLVY   24T35OFRQ 
+---+----]/[----+----] [-----+-] [--+-------(R)
+                                              
+Equation: [24T35OFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T35OFRQ from EPROM.
+ 
+Equation: 24T15ONRQ,  from EPROM
+ 
+    7424T15ONZ  7424T15OFFZ  DLVY   24T15ONRQ 
+---+----] [----+----]/[-----+-] [--+-------(R)
+                                              
+Equation: [24T15ONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T15ONRQ from EPROM.
+ 
+Equation: 24T15OFRQ,  from EPROM
+ 
+    7424T15ONZ  7424T15OFFZ  DLVY   24T15OFRQ 
+---+----]/[----+----] [-----+-] [--+-------(R)
+                                              
+Equation: [24T15OFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T15OFRQ from EPROM.
+ 
+Equation: 24T0ONRQ,  from EPROM
+ 
+    7424T0ONZ  7424T0OFFZ  DLVY   24T0ONRQ 
+---+---] [----+----]/[----+-] [--+------(R)
+                                           
+Equation: [24T0ONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T0ONRQ from EPROM.
+ 
+Equation: 24T0OFRQ,  from EPROM
+ 
+    7424T0ONZ  7424T0OFFZ  DLVY   24T0OFRQ 
+---+---]/[----+----] [----+-] [--+------(R)
+                                           
+Equation: [24T0OFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T0OFRQ from EPROM.
+ 
+Equation: 24T25OFRQ,  from EPROM
+ 
+    7424T25ONZ  7424T25OFFZ  DLVY   24T25OFRQ 
+---+----]/[----+----] [-----+-] [--+-------(R)
+                                              
+Equation: [24T25OFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T25OFRQ from EPROM.
+ 
+Equation: 24T25ONRQ,  from EPROM
+ 
+    7424T25ONZ  7424T25OFFZ  DLVY   24T25ONRQ 
+---+----] [----+----]/[-----+-] [--+-------(R)
+                                              
+Equation: [24T25ONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T25ONRQ from EPROM.
+ 
+Equation: 24T45OFRQ,  from EPROM
+ 
+    7424T45ONZ  7424T45OFFZ  DLVY   24T45OFRQ 
+---+----]/[----+----] [-----+-] [--+-------(R)
+                                              
+Equation: [24T45OFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T45OFRQ from EPROM.
+ 
+Equation: 24T45ONRQ,  from EPROM
+ 
+    7424T45ONZ  7424T45OFFZ  DLVY   24T45ONRQ 
+---+----] [----+----]/[-----+-] [--+-------(R)
+                                              
+Equation: [24T45ONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24T45ONRQ from EPROM.
+ 
+Equation: ETRMD0OFRQ,  from EPROM
+ 
+    ETR-MD0ONZ  ETR-MD0OFFZ  DLVY   ETRMD0OFRQ 
+---+----]/[----+----] [-----+-] [--+--------(R)
+                                               
+Equation: [ETRMD0OFRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRMD0OFRQ from EPROM.
+ 
+Equation: ETRMD0ONRQ,  from EPROM
+ 
+    ETR-MD0ONZ  ETR-MD0OFFZ  DLVY   ETRMD0ONRQ 
+---+----] [----+----]/[-----+-] [--+--------(R)
+                                               
+Equation: [ETRMD0ONRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRMD0ONRQ from EPROM.
+ 
+Equation: ETRMD15OFRQ,  from EPROM
+ 
+    ETR-MD15ONZ  ETR-MD15OFFZ  DLVY   ETRMD15OFRQ 
+---+----]/[-----+-----] [-----+-] [--+---------(R)
+                                                  
+Equation: [ETRMD15OFRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRMD15OFRQ from EPROM.
+ 
+Equation: ETRMD15ONRQ,  from EPROM
+ 
+    ETR-MD15ONZ  ETR-MD15OFFZ  DLVY   ETRMD15ONRQ 
+---+----] [-----+-----]/[-----+-] [--+---------(R)
+                                                  
+Equation: [ETRMD15ONRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRMD15ONRQ from EPROM.
+ 
+Equation: 24WZOFRQ,  from EPROM
+ 
+    7424WZONZ  7424WZOFFZ  DLVY   24WZOFRQ 
+---+---]/[----+----] [----+-] [--+------(R)
+                                           
+Equation: [24WZOFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24WZOFRQ from EPROM.
+ 
+Equation: 24WZONRQ,  from EPROM
+ 
+    7424WZONZ  7424WZOFFZ  DLVY   24WZONRQ 
+---+---] [----+----]/[----+-] [--+------(R)
+                                           
+Equation: [24WZONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24WZONRQ from EPROM.
+ 
+Equation: 24RELOFRQ,  from EPROM
+ 
+    7424RELONZ  7424RELOFFZ  DLVY   24RELOFRQ 
+---+----]/[----+----] [-----+-] [--+-------(R)
+                                              
+Equation: [24RELOFRQ]  Recorded: [ TRUE]
+ 
+End of equation 24RELOFRQ from EPROM.
+ 
+Equation: 24RELONRQ,  from EPROM
+ 
+    7424RELONZ  7424RELOFFZ  DLVY   24RELONRQ 
+---+----] [----+----]/[-----+-] [--+-------(R)
+                                              
+Equation: [24RELONRQ]  Recorded: [ TRUE]
+ 
+End of equation 24RELONRQ from EPROM.
+ 
+Equation: WTRMD15ONRQ,  from EPROM
+ 
+    WTR-MD15ONZ  WTR-MD15OFFZ  DLVY   WTRMD15ONRQ 
+---+----] [-----+-----]/[-----+-] [--+---------(R)
+                                                  
+Equation: [WTRMD15ONRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRMD15ONRQ from EPROM.
+ 
+Equation: WTRMD15OFRQ,  from EPROM
+ 
+    WTR-MD15ONZ  WTR-MD15OFFZ  DLVY   WTRMD15OFRQ 
+---+----]/[-----+-----] [-----+-] [--+---------(R)
+                                                  
+Equation: [WTRMD15OFRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRMD15OFRQ from EPROM.
+ 
+Equation: WTRMD0ONRQ,  from EPROM
+ 
+    WTR-MD0ONZ  WTR-MD0OFFZ  DLVY   WTRMD0ONRQ 
+---+----] [----+----]/[-----+-] [--+--------(R)
+                                               
+Equation: [WTRMD0ONRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRMD0ONRQ from EPROM.
+ 
+Equation: WTRMD0OFRQ,  from EPROM
+ 
+    WTR-MD0ONZ  WTR-MD0OFFZ  DLVY   WTRMD0OFRQ 
+---+----]/[----+----] [-----+-] [--+--------(R)
+                                               
+Equation: [WTRMD0OFRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRMD0OFRQ from EPROM.
+ 
+Equation: ETRRELONRQ,  from EPROM
+ 
+    ETR-RELONZ  ETR-RELOFFZ  DLVY   ETRRELONRQ 
+---+----] [----+----]/[-----+-] [--+--------(R)
+                                               
+Equation: [ETRRELONRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRRELONRQ from EPROM.
+ 
+Equation: ETRRELOFRQ,  from EPROM
+ 
+    ETR-RELOFFZ  ETR-RELONZ  DLVY   ETRRELOFRQ 
+---+----] [-----+----]/[----+-] [--+--------(R)
+                                               
+Equation: [ETRRELOFRQ]  Recorded: [ TRUE]
+ 
+End of equation ETRRELOFRQ from EPROM.
+ 
+Equation: WTRRELONRQ,  from EPROM
+ 
+    WTR-RELONZ  WTR-RELOFFZ  DLVY   WTRRELONRQ 
+---+----] [----+----]/[-----+-] [--+--------(R)
+                                               
+Equation: [WTRRELONRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRRELONRQ from EPROM.
+ 
+Equation: WTRRELOFRQ,  from EPROM
+ 
+    WTR-RELOFFZ  WTR-RELONZ  DLVY   WTRRELOFRQ 
+---+----] [-----+----]/[----+-] [--+--------(R)
+                                               
+Equation: [WTRRELOFRQ]  Recorded: [ TRUE]
+ 
+End of equation WTRRELOFRQ from EPROM.
+ 
+Equation: OFFICENONK,  from EPROM
+ 
+    OFFICENONZ  OFFICEBONZ  DLVY   OFFICENONK 
+---+----] [----+----]/[----+-] [--+--------(R)
+   |                              |           
+   |OFFICENONK  OFFICEBONK        |           
+   +----] [----+----]/[-----------+           
+                                              
+Equation: [OFFICENONK]  Recorded: [ TRUE]
+ 
+End of equation OFFICENONK from EPROM.
+ 
+Equation: OFFICEBONK,  from EPROM
+ 
+    OFFICEBONZ  OFFICENONZ  DLVY   OFFICEBONK 
+---+----] [----+----]/[----+-] [--+--------(R)
+   |                              |           
+   |OFFICEBONK  OFFICENONK        |           
+   +----] [----+----]/[-----------+           
+                                              
+Equation: [OFFICEBONK]  Recorded: [ TRUE]
+ 
+End of equation OFFICEBONK from EPROM.
+ 
+Equation: 7424RELK,  from EPROM
+ 
+    24REL  7424RELK 
+---+-] [--+------(R)
+                    
+Equation: [7424RELK]  Recorded: [ TRUE]
+ 
+End of equation 7424RELK from EPROM.
+ 
+Equation: ETR-RELK,  from EPROM
+ 
+    ETRREL  24TP   ETR-RELK 
+---+--] [--+-] [--+------(R)
+                            
+Equation: [ETR-RELK]  Recorded: [ TRUE]
+ 
+End of equation ETR-RELK from EPROM.
+ 
+Equation: WTR-RELK,  from EPROM
+ 
+    WTRREL  24TP   WTR-RELK 
+---+--] [--+-] [--+------(R)
+                            
+Equation: [WTR-RELK]  Recorded: [ TRUE]
+ 
+End of equation WTR-RELK from EPROM.
+ 
+Equation: MOD-HLTH-TE,  from EPROM
+ 
+    MODULE-HLTH  MOD-HLTH-TE 
+---+----]/[-----+---------(T)
+                             
+Timer Data:    Timer Complete: [ MOD-HLTH-TE]  Recorded: [ TRUE]
+               Timer Enable:   [MOD-HLTH-TEN]  Recorded: [ TRUE]
+               Timer Default: 1 minutes, 0 seconds.
+               Timer Minimum: 1 minutes, 0 seconds.
+ 
+ 
+End of equation MOD-HLTH-TE from EPROM.
+ 
+Equation: FAULTK,  from EPROM
+ 
+    MOD-HLTH-TE  FAULTK 
+---+----] [-----+----(R)
+   |            |       
+   |   LINKS    |       
+   +----]/[-----|       
+   |            |       
+   | LINKFAIL   |       
+   +----]/[-----|       
+                        
+Equation: [FAULTK]  Recorded: [ TRUE]
+ 
+End of equation FAULTK from EPROM.
+ 
+Equation: 7424T25K,  from EPROM
+ 
+    24T0   24T15  24T25  7424T25K 
+---+-] [--+-] [--+-]/[--+------(R)
+                                  
+Equation: [7424T25K]  Recorded: [ TRUE]
+ 
+End of equation 7424T25K from EPROM.
+ 
+Equation: 7424T45K,  from EPROM
+ 
+    24T0   24T15  24T25  24T35  24T45  7424T45K 
+---+-] [--+-] [--+-] [--+-] [--+-]/[--+------(R)
+                                                
+Equation: [7424T45K]  Recorded: [ TRUE]
+ 
+End of equation 7424T45K from EPROM.
+ 
+Equation: ETR-MD0K,  from EPROM
+ 
+    ETRMD0  ETR-MD0K 
+---+--]/[--+------(R)
+                     
+Equation: [ETR-MD0K]  Recorded: [ TRUE]
+ 
+End of equation ETR-MD0K from EPROM.
+ 
+Equation: ETR-MD15K,  from EPROM
+ 
+    ETRMD0  ETRMD15  ETR-MD15K 
+---+--] [--+--]/[---+-------(R)
+                               
+Equation: [ETR-MD15K]  Recorded: [ TRUE]
+ 
+End of equation ETR-MD15K from EPROM.
+ 
+Equation: 7424WZK,  from EPROM
+ 
+    24WZ   7424WZK 
+---+-]/[--+-----(R)
+                   
+Equation: [7424WZK]  Recorded: [ TRUE]
+ 
+End of equation 7424WZK from EPROM.
+ 
+Equation: 7424LK,  from EPROM
+ 
+     24L   7424LK 
+---+-] [--+----(R)
+                  
+Equation: [7424LK]  Recorded: [ TRUE]
+ 
+End of equation 7424LK from EPROM.
+ 
+Equation: WTR-MD15K,  from EPROM
+ 
+    WTRMD0  WTRMD15  WTR-MD15K 
+---+--] [--+--]/[---+-------(R)
+                               
+Equation: [WTR-MD15K]  Recorded: [ TRUE]
+ 
+End of equation WTR-MD15K from EPROM.
+ 
+Equation: WTR-MD0K,  from EPROM
+ 
+    WTRMD0  WTR-MD0K 
+---+--]/[--+------(R)
+                     
+Equation: [WTR-MD0K]  Recorded: [ TRUE]
+ 
+End of equation WTR-MD0K from EPROM.
+ 
